@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { Button } from "@/components/ui/button";
@@ -14,6 +13,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import ComboBoxUniverzalni from "@/components/ComboBoxUniverzalni";
 import { toast } from "sonner";
+import Upute from "@/components/Upute";
 
 const PrijaviProblem = () => {
   const currentUser = JSON.parse(localStorage.getItem("userInfo"));
@@ -67,13 +67,19 @@ const PrijaviProblem = () => {
             return null;
           })
           .filter((vozilo) => vozilo !== null);
-        setVozila(vozilaKorisnika);
+
+        const uniqueVozila = vozilaKorisnika.filter(
+          (vozilo, index, self) =>
+            index === self.findIndex((v) => v.value === vozilo.value)
+        );
+
+        setVozila(uniqueVozila);
       })
       .catch((error) => {
         console.error("Greška pri dohvaćanju vozila: ", error);
       });
   }, [currentUser]);
-  
+
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData((prev) => ({ ...prev, [name]: value }));
@@ -85,13 +91,9 @@ const PrijaviProblem = () => {
     setErrorMessage("");
 
     try {
-      await axios.post(
-        "http://localhost:3000/problemi",
-        formData,
-        {
-          withCredentials: true,
-        }
-      );
+      await axios.post("http://localhost:3000/problemi", formData, {
+        withCredentials: true,
+      });
 
       toast("Problem uspješno prijavljen.");
       setFormData({
@@ -118,6 +120,12 @@ const PrijaviProblem = () => {
 
   return (
     <div className="flex flex-col items-center space-y-4">
+      <Upute
+        naslov={"Prijavi Problem"}
+        opis={
+          "Ovdje možete prijaviti problem s vozilom. Problem možete prijaviti samo za ona vozila koja ste rezervirali, a rezervacija je odobrena."
+        }
+      />
       <Card>
         <CardHeader>
           <CardTitle>Prijavi Problem</CardTitle>

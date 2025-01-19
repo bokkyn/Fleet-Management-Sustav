@@ -50,7 +50,7 @@ const LoginForma = () => {
 
         toast("Prijava uspješna");
 
-        navigate("/rezervacije");
+        navigate("/o-projektu");
         window.location.reload();     } else {
         setErrorMessage("Greška od servera.");
       }

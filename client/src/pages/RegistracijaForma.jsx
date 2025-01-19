@@ -12,6 +12,7 @@ import {
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { toast } from "sonner";
+import Upute from "@/components/Upute";
 
 const RegistracijaForma = () => {
   const [ime, setIme] = useState("");
@@ -95,6 +96,12 @@ const RegistracijaForma = () => {
   };
   return (
     <div className="flex flex-col items-center space-y-4">
+      <Upute
+        naslov={"Registracija"}
+        opis={
+          "Ovdje registrirajte korisnika. Korisnik mora biti stariji od 18 godina kako bi pristupio voznom parku, a za lozinku nek izabere što god želi, ali radi sigurnosti vlastitih podataka, preporučamo kombinaciju velikih i malih slova, brojeva i znakova. "
+        }
+      ></Upute>
       <Card>
         <CardHeader>
           <CardTitle>Registracija</CardTitle>
@@ -172,7 +179,7 @@ const RegistracijaForma = () => {
               value={uloga}
               onChange={handleInputChange}
               required
-              className="w-full p-2 border rounded-md bg-white-500 text-black focus:outline-none focus:ring-2 focus:ring-stone-600"
+              className="w-full p-2 border rounded-md bg-white text-black focus:outline-none focus:ring-2 focus:ring-stone-600"
             >
               <option value="korisnik">Korisnik</option>
               <option value="administrator">Administrator</option>

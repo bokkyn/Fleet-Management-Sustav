@@ -45,7 +45,7 @@ const RezervacijaTablica = () => {
       <h1 className="font-bold">Rezervacije</h1>
       <Upute
         naslov="Tablica rezervacija"
-        opis="Ovdje možete pregledati sve rezervacije, bile one odbijene, odobrene... Rezervacije koje niste odobrili niti odbili, prikazat će se po defaultu na vrhu, ali za sortiranje možete dodirnuti tipke naslova stupca, za filtriranje po statusu možete koristiti izbornik desno, a ako trebate filtrirati po vozilu, korisniku ili čak datumu, slobodno upišite prvih par znakova u izbornik lijevo. Ako je vrijeme rezervacije prošlo, a na nju niste reagirali, status će biti označen s 'prošlo', potrudite se da se to ne događa. Na rezervacije kojima je status 'na čekanju' možete kliknuti kako biste ih odobrili ili odbili. Tad će se pojaviti izbornih s više detalja i opcija."
+        opis="Ovdje možete pregledati sve rezervacije, bile one odbijene, odobrene... Rezervacije koje niste odobrili niti odbili, prikazat će se po defaultu na vrhu, ali za sortiranje možete dodirnuti tipke naslova stupca, za filtriranje po statusu možete koristiti izbornik desno, a ako trebate filtrirati po vozilu, korisniku ili čak datumu, slobodno upišite prvih par znakova u izbornik lijevo. Ako je vrijeme rezervacije prošlo, a na nju niste reagirali, status će biti označen s 'isteklo', potrudite se da se to ne događa. Na rezervacije kojima je status 'na čekanju' možete kliknuti kako biste ih odobrili ili odbili. Tad će se pojaviti izbornih s više detalja i opcija."
       ></Upute>
 
       <DataTable columns={columns} data={rezervacije} pagination />
