@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "678c6171c8738ce0de4c4e5f"
+  },
+  "id_korisnika": {
+    "$oid": "678c5b9875222ae43b5ab7ed"
+  },
+  "id_vozila": {
+    "$oid": "678c5ec1c8738ce0de4bc3be"
+  },
+  "opis_problema": "Čini mi se da je ovaj A3 udren naprijed lijevo, pa da ne mislite da sam ja",
+  "status": "otvoreno",
+  "kategorija": "oštećenje karoserije",
+  "prioritet": "nizak",
+  "datum_prijave": {
+    "$date": "2025-01-19T02:20:33.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678c637cc8738ce0de4cf4c9"
+  },
+  "id_korisnika": {
+    "$oid": "678c1fb03eaa72d23c082180"
+  },
+  "id_vozila": {
+    "$oid": "6776be95ebc7c9d8f7a0cbc1"
+  },
+  "opis_problema": "Vozilo traži slovenska policija",
+  "status": "zatvoreno",
+  "kategorija": "administrativni problem",
+  "prioritet": "visok",
+  "datum_prijave": {
+    "$date": "2025-01-19T02:29:16.170Z"
+  },
+  "__v": 0
+}]

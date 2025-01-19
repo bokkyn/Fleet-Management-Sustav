@@ -1,0 +1,4577 @@
+{
+    "Alfa Romeo": [
+        {
+            "label": "145",
+            "tip_vozila": "hatchback",
+            "value": "145"
+        },
+        {
+            "label": "146",
+            "tip_vozila": "hatchback",
+            "value": "146"
+        },
+        {
+            "label": "147",
+            "tip_vozila": "hatchback",
+            "value": "147"
+        },
+        {
+            "label": "155",
+            "tip_vozila": "sedan",
+            "value": "155"
+        },
+        {
+            "label": "156",
+            "tip_vozila": "sedan",
+            "value": "156"
+        },
+        {
+            "label": "159",
+            "tip_vozila": "sedan",
+            "value": "159"
+        },
+        {
+            "label": "164",
+            "tip_vozila": "sedan",
+            "value": "164"
+        },
+        {
+            "label": "166",
+            "tip_vozila": "sedan",
+            "value": "166"
+        },
+        {
+            "label": "4C",
+            "tip_vozila": "coupe",
+            "value": "4C"
+        },
+        {
+            "label": "Brera",
+            "tip_vozila": "coupe",
+            "value": "Brera"
+        },
+        {
+            "label": "GT",
+            "tip_vozila": "coupe",
+            "value": "GT"
+        },
+        {
+            "label": "GTV",
+            "tip_vozila": "coupe",
+            "value": "GTV"
+        },
+        {
+            "label": "Giulia",
+            "tip_vozila": "sedan",
+            "value": "Giulia"
+        },
+        {
+            "label": "Giulietta",
+            "tip_vozila": "hatchback",
+            "value": "Giulietta"
+        },
+        {
+            "label": "MiTo",
+            "tip_vozila": "hatchback",
+            "value": "MiTo"
+        },
+        {
+            "label": "Spider",
+            "tip_vozila": "kabriolet",
+            "value": "Spider"
+        }
+    ],
+    "Aston Martin": [
+        {
+            "label": "DB7",
+            "tip_vozila": "coupe",
+            "value": "DB7"
+        },
+        {
+            "label": "DB9",
+            "tip_vozila": "coupe",
+            "value": "DB9"
+        },
+        {
+            "label": "DBS",
+            "tip_vozila": "coupe",
+            "value": "DBS"
+        },
+        {
+            "label": "One-77",
+            "tip_vozila": "coupe",
+            "value": "One-77"
+        },
+        {
+            "label": "Rapide",
+            "tip_vozila": "sedan",
+            "value": "Rapide"
+        },
+        {
+            "label": "V12 Vantage",
+            "tip_vozila": "coupe",
+            "value": "V12 Vantage"
+        },
+        {
+            "label": "V8 Vantage",
+            "tip_vozila": "coupe",
+            "value": "V8 Vantage"
+        },
+        {
+            "label": "Vanquish",
+            "tip_vozila": "coupe",
+            "value": "Vanquish"
+        }
+    ],
+    "Audi": [
+        {
+            "label": "A1 Citycarver",
+            "tip_vozila": "hatchback",
+            "value": "a1-citycarver"
+        },
+        {
+            "label": "A1 Sportback",
+            "tip_vozila": "hatchback",
+            "value": "a1-sportback"
+        },
+        {
+            "label": "A1",
+            "tip_vozila": "hatchback",
+            "value": "a1"
+        },
+        {
+            "label": "A2",
+            "tip_vozila": "hatchback",
+            "value": "a2"
+        },
+        {
+            "label": "A3 Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "a3-cabrio"
+        },
+        {
+            "label": "A3 Limousine",
+            "tip_vozila": "sedan",
+            "value": "a3-limousine"
+        },
+        {
+            "label": "A3 Sportback",
+            "tip_vozila": "hatchback",
+            "value": "a3-sportback"
+        },
+        {
+            "label": "A3",
+            "tip_vozila": "sedan",
+            "value": "a3"
+        },
+        {
+            "label": "A4 Allroad",
+            "tip_vozila": "karavan",
+            "value": "a4-allroad"
+        },
+        {
+            "label": "A4 Avant",
+            "tip_vozila": "karavan",
+            "value": "a4-avant"
+        },
+        {
+            "label": "A4 Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "a4-cabrio"
+        },
+        {
+            "label": "A4",
+            "tip_vozila": "sedan",
+            "value": "a4"
+        },
+        {
+            "label": "A5 Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "a5-cabrio"
+        },
+        {
+            "label": "A5 Coupé",
+            "tip_vozila": "coupe",
+            "value": "a5-coupe"
+        },
+        {
+            "label": "A5 Sportback",
+            "tip_vozila": "hatchback",
+            "value": "a5-sportback"
+        },
+        {
+            "label": "A5",
+            "tip_vozila": "sedan",
+            "value": "a5"
+        },
+        {
+            "label": "A6 Allroad",
+            "tip_vozila": "karavan",
+            "value": "a6-allroad"
+        },
+        {
+            "label": "A6 Avant",
+            "tip_vozila": "karavan",
+            "value": "a6-avant"
+        },
+        {
+            "label": "A6",
+            "tip_vozila": "sedan",
+            "value": "a6"
+        },
+        {
+            "label": "A7 Sportback",
+            "tip_vozila": "hatchback",
+            "value": "a7-sportback"
+        },
+        {
+            "label": "A7",
+            "tip_vozila": "sedan",
+            "value": "a7"
+        },
+        {
+            "label": "A8",
+            "tip_vozila": "sedan",
+            "value": "a8"
+        },
+        {
+            "label": "Q2",
+            "tip_vozila": "SUV",
+            "value": "q2"
+        },
+        {
+            "label": "Q3 Sportback",
+            "tip_vozila": "SUV",
+            "value": "q3-sportback"
+        },
+        {
+            "label": "Q3",
+            "tip_vozila": "SUV",
+            "value": "q3"
+        },
+        {
+            "label": "Q4 Sportback",
+            "tip_vozila": "SUV",
+            "value": "q4-sportback"
+        },
+        {
+            "label": "Q4",
+            "tip_vozila": "SUV",
+            "value": "q4"
+        },
+        {
+            "label": "Q5 Sportback",
+            "tip_vozila": "SUV",
+            "value": "q5-sportback"
+        },
+        {
+            "label": "Q5",
+            "tip_vozila": "SUV",
+            "value": "q5"
+        },
+        {
+            "label": "Q7",
+            "tip_vozila": "SUV",
+            "value": "q7"
+        },
+        {
+            "label": "Q8",
+            "tip_vozila": "SUV",
+            "value": "q8"
+        },
+        {
+            "label": "R8",
+            "tip_vozila": "coupe",
+            "value": "r8"
+        },
+        {
+            "label": "RS e-tron GT",
+            "tip_vozila": "sedan",
+            "value": "rs-e-tron-gt"
+        },
+        {
+            "label": "S1",
+            "tip_vozila": "hatchback",
+            "value": "s1"
+        },
+        {
+            "label": "S3",
+            "tip_vozila": "sedan",
+            "value": "s3"
+        },
+        {
+            "label": "S4",
+            "tip_vozila": "sedan",
+            "value": "s4"
+        },
+        {
+            "label": "S5",
+            "tip_vozila": "coupe",
+            "value": "s5"
+        },
+        {
+            "label": "S6",
+            "tip_vozila": "sedan",
+            "value": "s6"
+        },
+        {
+            "label": "S7",
+            "tip_vozila": "hatchback",
+            "value": "s7"
+        },
+        {
+            "label": "S8",
+            "tip_vozila": "sedan",
+            "value": "s8"
+        },
+        {
+            "label": "TT Coupé",
+            "tip_vozila": "coupe",
+            "value": "tt-coupe"
+        },
+        {
+            "label": "TT",
+            "tip_vozila": "coupe",
+            "value": "tt"
+        }
+    ],
+    "Bentley": [
+        {
+            "label": "Bentayga",
+            "tip_vozila": "SUV",
+            "value": "Bentayga"
+        },
+        {
+            "label": "Continental GT",
+            "tip_vozila": "coupe",
+            "value": "Continental GT"
+        },
+        {
+            "label": "Continental GTC",
+            "tip_vozila": "kabriolet",
+            "value": "Continental GTC"
+        },
+        {
+            "label": "Flying Spur",
+            "tip_vozila": "sedan",
+            "value": "Flying Spur"
+        },
+        {
+            "label": "Mulsanne",
+            "tip_vozila": "sedan",
+            "value": "Mulsanne"
+        }
+    ],
+    "BMW": [
+        {
+            "label": "1er Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "1er-cabrio"
+        },
+        {
+            "label": "1er Coupé",
+            "tip_vozila": "coupe",
+            "value": "1er-coupe"
+        },
+        {
+            "label": "1er M Coupé",
+            "tip_vozila": "sedan",
+            "value": "1er-m-coupe"
+        },
+        {
+            "label": "1er",
+            "tip_vozila": "hatchback",
+            "value": "1er"
+        },
+        {
+            "label": "2er Active Tourer",
+            "tip_vozila": "karavan",
+            "value": "2er-active-tourer"
+        },
+        {
+            "label": "2er Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "2er-cabrio"
+        },
+        {
+            "label": "2er Coupé",
+            "tip_vozila": "coupe",
+            "value": "2er-coupe"
+        },
+        {
+            "label": "2er Gran Coupé",
+            "tip_vozila": "sedan",
+            "value": "2er-gran-coupe"
+        },
+        {
+            "label": "2er Gran Tourer",
+            "tip_vozila": "karavan",
+            "value": "2er-gran-tourer"
+        },
+        {
+            "label": "2er",
+            "tip_vozila": "sedan",
+            "value": "2er"
+        },
+        {
+            "label": "3er Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "3er-cabrio"
+        },
+        {
+            "label": "3er Compact",
+            "tip_vozila": "hatchback",
+            "value": "3er-compact"
+        },
+        {
+            "label": "3er Coupé",
+            "tip_vozila": "coupe",
+            "value": "3er-coupe"
+        },
+        {
+            "label": "3er GT",
+            "tip_vozila": "sedan",
+            "value": "3er-gt"
+        },
+        {
+            "label": "3er Touring",
+            "tip_vozila": "karavan",
+            "value": "3er-touring"
+        },
+        {
+            "label": "3er",
+            "tip_vozila": "sedan",
+            "value": "3er"
+        },
+        {
+            "label": "4er Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "4er-cabrio"
+        },
+        {
+            "label": "4er Coupé",
+            "tip_vozila": "coupe",
+            "value": "4er-coupe"
+        },
+        {
+            "label": "4er Gran Coupé",
+            "tip_vozila": "sedan",
+            "value": "4er-gran-coupe"
+        },
+        {
+            "label": "4er",
+            "tip_vozila": "sedan",
+            "value": "4er"
+        },
+        {
+            "label": "5er Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "5er-cabrio"
+        },
+        {
+            "label": "5er GT",
+            "tip_vozila": "sedan",
+            "value": "5er-gt"
+        },
+        {
+            "label": "5er Touring",
+            "tip_vozila": "karavan",
+            "value": "5er-touring"
+        },
+        {
+            "label": "5er",
+            "tip_vozila": "sedan",
+            "value": "5er"
+        },
+        {
+            "label": "6er Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "6er-cabrio"
+        },
+        {
+            "label": "6er Coupé",
+            "tip_vozila": "coupe",
+            "value": "6er-coupe"
+        },
+        {
+            "label": "6er Gran Coupé",
+            "tip_vozila": "sedan",
+            "value": "6er-gran-coupe"
+        },
+        {
+            "label": "6er",
+            "tip_vozila": "sedan",
+            "value": "6er"
+        },
+        {
+            "label": "7er",
+            "tip_vozila": "sedan",
+            "value": "7er"
+        },
+        {
+            "label": "8er Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "8er-cabrio"
+        },
+        {
+            "label": "8er Coupé",
+            "tip_vozila": "coupe",
+            "value": "8er-coupe"
+        },
+        {
+            "label": "8er Gran Coupé",
+            "tip_vozila": "sedan",
+            "value": "8er-gran-coupe"
+        },
+        {
+            "label": "8er",
+            "tip_vozila": "sedan",
+            "value": "8er"
+        },
+        {
+            "label": "X1",
+            "tip_vozila": "SUV",
+            "value": "x1"
+        },
+        {
+            "label": "X2",
+            "tip_vozila": "SUV",
+            "value": "x2"
+        },
+        {
+            "label": "X3",
+            "tip_vozila": "SUV",
+            "value": "x3"
+        },
+        {
+            "label": "X4",
+            "tip_vozila": "SUV",
+            "value": "x4"
+        },
+        {
+            "label": "X5 M",
+            "tip_vozila": "SUV",
+            "value": "x5-m"
+        },
+        {
+            "label": "X5",
+            "tip_vozila": "SUV",
+            "value": "x5"
+        },
+        {
+            "label": "X6 M",
+            "tip_vozila": "SUV",
+            "value": "x6-m"
+        },
+        {
+            "label": "X6",
+            "tip_vozila": "SUV",
+            "value": "x6"
+        },
+        {
+            "label": "X7",
+            "tip_vozila": "SUV",
+            "value": "x7"
+        },
+        {
+            "label": "Z3 Coupé",
+            "tip_vozila": "coupe",
+            "value": "z3-coupe"
+        },
+        {
+            "label": "Z3",
+            "tip_vozila": "kabriolet",
+            "value": "z3"
+        },
+        {
+            "label": "Z4 Coupé",
+            "tip_vozila": "coupe",
+            "value": "z4-coupe"
+        },
+        {
+            "label": "Z4",
+            "tip_vozila": "kabriolet",
+            "value": "z4"
+        },
+        {
+            "label": "Z8",
+            "tip_vozila": "kabriolet",
+            "value": "z8"
+        },
+        {
+            "label": "i3",
+            "tip_vozila": "hatchback",
+            "value": "i3"
+        },
+        {
+            "label": "i4",
+            "tip_vozila": "sedan",
+            "value": "i4"
+        },
+        {
+            "label": "i8",
+            "tip_vozila": "coupe",
+            "value": "i8"
+        },
+        {
+            "label": "iX",
+            "tip_vozila": "SUV",
+            "value": "ix"
+        },
+        {
+            "label": "iX3",
+            "tip_vozila": "SUV",
+            "value": "ix3"
+        }
+    ],
+    "Bugatti": [
+        {
+            "label": "Centodieci",
+            "tip_vozila": "coupe",
+            "value": "Centodieci"
+        },
+        {
+            "label": "Chiron",
+            "tip_vozila": "coupe",
+            "value": "Chiron"
+        },
+        {
+            "label": "Divo",
+            "tip_vozila": "coupe",
+            "value": "Divo"
+        },
+        {
+            "label": "Veyron 16.4",
+            "tip_vozila": "coupe",
+            "value": "Veyron 16.4"
+        },
+        {
+            "label": "Veyron Grand Sport",
+            "tip_vozila": "kabriolet",
+            "value": "Veyron Grand Sport"
+        }
+    ],
+    "Cadillac": [
+        {
+            "label": "ATS",
+            "tip_vozila": "sedan",
+            "value": "ATS"
+        },
+        {
+            "label": "CT6",
+            "tip_vozila": "sedan",
+            "value": "CT6"
+        },
+        {
+            "label": "CTS",
+            "tip_vozila": "sedan",
+            "value": "CTS"
+        },
+        {
+            "label": "Escalade",
+            "tip_vozila": "SUV",
+            "value": "Escalade"
+        },
+        {
+            "label": "XLR",
+            "tip_vozila": "coupe",
+            "value": "XLR"
+        },
+        {
+            "label": "XT4",
+            "tip_vozila": "SUV",
+            "value": "XT4"
+        },
+        {
+            "label": "XT5",
+            "tip_vozila": "SUV",
+            "value": "XT5"
+        },
+        {
+            "label": "XT6",
+            "tip_vozila": "SUV",
+            "value": "XT6"
+        }
+    ],
+    "Chevrolet": [
+        {
+            "label": "Alero",
+            "tip_vozila": "sedan",
+            "value": "Alero"
+        },
+        {
+            "label": "Aveo",
+            "tip_vozila": "hatchback",
+            "value": "Aveo"
+        },
+        {
+            "label": "Camaro",
+            "tip_vozila": "coupe",
+            "value": "Camaro"
+        },
+        {
+            "label": "Captiva",
+            "tip_vozila": "SUV",
+            "value": "Captiva"
+        },
+        {
+            "label": "Corvette",
+            "tip_vozila": "coupe",
+            "value": "Corvette"
+        },
+        {
+            "label": "Cruze SW",
+            "tip_vozila": "kombi",
+            "value": "Cruze SW"
+        },
+        {
+            "label": "Cruze",
+            "tip_vozila": "sedan",
+            "value": "Cruze"
+        },
+        {
+            "label": "Epica",
+            "tip_vozila": "sedan",
+            "value": "Epica"
+        },
+        {
+            "label": "Equinox",
+            "tip_vozila": "SUV",
+            "value": "Equinox"
+        },
+        {
+            "label": "Evanda",
+            "tip_vozila": "sedan",
+            "value": "Evanda"
+        },
+        {
+            "label": "HHR",
+            "tip_vozila": "SUV",
+            "value": "HHR"
+        },
+        {
+            "label": "Kalos",
+            "tip_vozila": "hatchback",
+            "value": "Kalos"
+        },
+        {
+            "label": "Lacetti SW",
+            "tip_vozila": "kombi",
+            "value": "Lacetti SW"
+        },
+        {
+            "label": "Lacetti",
+            "tip_vozila": "hatchback",
+            "value": "Lacetti"
+        },
+        {
+            "label": "Lumina",
+            "tip_vozila": "sedan",
+            "value": "Lumina"
+        },
+        {
+            "label": "Malibu",
+            "tip_vozila": "sedan",
+            "value": "Malibu"
+        },
+        {
+            "label": "Matiz",
+            "tip_vozila": "hatchback",
+            "value": "Matiz"
+        },
+        {
+            "label": "Monte Carlo",
+            "tip_vozila": "coupe",
+            "value": "Monte Carlo"
+        },
+        {
+            "label": "Nubira",
+            "tip_vozila": "sedan",
+            "value": "Nubira"
+        },
+        {
+            "label": "Orlando",
+            "tip_vozila": "kombi",
+            "value": "Orlando"
+        },
+        {
+            "label": "Spark",
+            "tip_vozila": "hatchback",
+            "value": "Spark"
+        },
+        {
+            "label": "Suburban",
+            "tip_vozila": "SUV",
+            "value": "Suburban"
+        },
+        {
+            "label": "Tacuma",
+            "tip_vozila": "kombi",
+            "value": "Tacuma"
+        },
+        {
+            "label": "Tahoe",
+            "tip_vozila": "SUV",
+            "value": "Tahoe"
+        },
+        {
+            "label": "Trax",
+            "tip_vozila": "SUV",
+            "value": "Trax"
+        }
+    ],
+    "Citroën": [
+        {
+            "label": "Berlingo",
+            "tip_vozila": "kombi",
+            "value": "Berlingo"
+        },
+        {
+            "label": "C-Crosser",
+            "tip_vozila": "SUV",
+            "value": "C-Crosser"
+        },
+        {
+            "label": "C-Elissée",
+            "tip_vozila": "sedan",
+            "value": "C-Elissée"
+        },
+        {
+            "label": "C-Zero",
+            "tip_vozila": "hatchback",
+            "value": "C-Zero"
+        },
+        {
+            "label": "C1",
+            "tip_vozila": "hatchback",
+            "value": "C1"
+        },
+        {
+            "label": "C2",
+            "tip_vozila": "hatchback",
+            "value": "C2"
+        },
+        {
+            "label": "C3 Picasso",
+            "tip_vozila": "kombi",
+            "value": "C3 Picasso"
+        },
+        {
+            "label": "C3",
+            "tip_vozila": "hatchback",
+            "value": "C3"
+        },
+        {
+            "label": "C4 Aircross",
+            "tip_vozila": "SUV",
+            "value": "C4 Aircross"
+        },
+        {
+            "label": "C4 Cactus",
+            "tip_vozila": "SUV",
+            "value": "C4 Cactus"
+        },
+        {
+            "label": "C4 Coupé",
+            "tip_vozila": "coupe",
+            "value": "C4 Coupé"
+        },
+        {
+            "label": "C4 Grand Picasso",
+            "tip_vozila": "kombi",
+            "value": "C4 Grand Picasso"
+        },
+        {
+            "label": "C4 Sedan",
+            "tip_vozila": "sedan",
+            "value": "C4 Sedan"
+        },
+        {
+            "label": "C4",
+            "tip_vozila": "hatchback",
+            "value": "C4"
+        },
+        {
+            "label": "C5 Break",
+            "tip_vozila": "kombi",
+            "value": "C5 Break"
+        },
+        {
+            "label": "C5 Tourer",
+            "tip_vozila": "kombi",
+            "value": "C5 Tourer"
+        },
+        {
+            "label": "C5",
+            "tip_vozila": "sedan",
+            "value": "C5"
+        },
+        {
+            "label": "C6",
+            "tip_vozila": "sedan",
+            "value": "C6"
+        },
+        {
+            "label": "C8",
+            "tip_vozila": "kombi",
+            "value": "C8"
+        },
+        {
+            "label": "DS3",
+            "tip_vozila": "hatchback",
+            "value": "DS3"
+        },
+        {
+            "label": "DS4",
+            "tip_vozila": "hatchback",
+            "value": "DS4"
+        },
+        {
+            "label": "DS5",
+            "tip_vozila": "hatchback",
+            "value": "DS5"
+        },
+        {
+            "label": "Evasion",
+            "tip_vozila": "kombi",
+            "value": "Evasion"
+        },
+        {
+            "label": "Jumper",
+            "tip_vozila": "kombi",
+            "value": "Jumper"
+        },
+        {
+            "label": "Jumpy",
+            "tip_vozila": "kombi",
+            "value": "Jumpy"
+        },
+        {
+            "label": "Nemo",
+            "tip_vozila": "kombi",
+            "value": "Nemo"
+        },
+        {
+            "label": "Saxo",
+            "tip_vozila": "hatchback",
+            "value": "Saxo"
+        },
+        {
+            "label": "Xantia",
+            "tip_vozila": "sedan",
+            "value": "Xantia"
+        },
+        {
+            "label": "Xsara",
+            "tip_vozila": "hatchback",
+            "value": "Xsara"
+        }
+    ],
+    "Dacia": [
+        {
+            "label": "Dokker",
+            "tip_vozila": "kombi",
+            "value": "Dokker"
+        },
+        {
+            "label": "Duster",
+            "tip_vozila": "SUV",
+            "value": "Duster"
+        },
+        {
+            "label": "Lodgy",
+            "tip_vozila": "kombi",
+            "value": "Lodgy"
+        },
+        {
+            "label": "Logan MCV",
+            "tip_vozila": "kombi",
+            "value": "Logan MCV"
+        },
+        {
+            "label": "Logan",
+            "tip_vozila": "sedan",
+            "value": "Logan"
+        },
+        {
+            "label": "Sandero",
+            "tip_vozila": "hatchback",
+            "value": "Sandero"
+        },
+        {
+            "label": "Solenza",
+            "tip_vozila": "sedan",
+            "value": "Solenza"
+        }
+    ],
+    "Daewoo": [
+        {
+            "label": "Espero",
+            "tip_vozila": "sedan",
+            "value": "Espero"
+        },
+        {
+            "label": "Kalos",
+            "tip_vozila": "hatchback",
+            "value": "Kalos"
+        },
+        {
+            "label": "Lacetti",
+            "tip_vozila": "sedan",
+            "value": "Lacetti"
+        },
+        {
+            "label": "Lanos",
+            "tip_vozila": "hatchback",
+            "value": "Lanos"
+        },
+        {
+            "label": "Leganza",
+            "tip_vozila": "sedan",
+            "value": "Leganza"
+        },
+        {
+            "label": "Lublin",
+            "tip_vozila": "kombi",
+            "value": "Lublin"
+        },
+        {
+            "label": "Matiz",
+            "tip_vozila": "hatchback",
+            "value": "Matiz"
+        },
+        {
+            "label": "Nexia",
+            "tip_vozila": "sedan",
+            "value": "Nexia"
+        },
+        {
+            "label": "Nubira kombi",
+            "tip_vozila": "kombi",
+            "value": "Nubira kombi"
+        },
+        {
+            "label": "Nubira",
+            "tip_vozila": "sedan",
+            "value": "Nubira"
+        },
+        {
+            "label": "Racer",
+            "tip_vozila": "coupe",
+            "value": "Racer"
+        },
+        {
+            "label": "Tacuma",
+            "tip_vozila": "kombi",
+            "value": "Tacuma"
+        },
+        {
+            "label": "Tico",
+            "tip_vozila": "hatchback",
+            "value": "Tico"
+        }
+    ],
+    "Dodge": [
+        {
+            "label": "Avenger",
+            "tip_vozila": "sedan",
+            "value": "Avenger"
+        },
+        {
+            "label": "Caliber",
+            "tip_vozila": "hatchback",
+            "value": "Caliber"
+        },
+        {
+            "label": "Challenger",
+            "tip_vozila": "coupe",
+            "value": "Challenger"
+        },
+        {
+            "label": "Charger",
+            "tip_vozila": "sedan",
+            "value": "Charger"
+        },
+        {
+            "label": "Grand Caravan",
+            "tip_vozila": "kombi",
+            "value": "Grand Caravan"
+        },
+        {
+            "label": "Journey",
+            "tip_vozila": "SUV",
+            "value": "Journey"
+        },
+        {
+            "label": "Magnum",
+            "tip_vozila": "sedan",
+            "value": "Magnum"
+        },
+        {
+            "label": "Nitro",
+            "tip_vozila": "SUV",
+            "value": "Nitro"
+        },
+        {
+            "label": "RAM",
+            "tip_vozila": "SUV",
+            "value": "RAM"
+        },
+        {
+            "label": "Stealth",
+            "tip_vozila": "coupe",
+            "value": "Stealth"
+        },
+        {
+            "label": "Viper",
+            "tip_vozila": "coupe",
+            "value": "Viper"
+        }
+    ],
+    "Ferrari": [
+        {
+            "label": "488 GTB",
+            "tip_vozila": "coupe",
+            "value": "488 GTB"
+        },
+        {
+            "label": "812 Superfast",
+            "tip_vozila": "coupe",
+            "value": "812 Superfast"
+        },
+        {
+            "label": "F8 Tributo",
+            "tip_vozila": "coupe",
+            "value": "F8 Tributo"
+        },
+        {
+            "label": "GTC4Lusso",
+            "tip_vozila": "coupe",
+            "value": "GTC4Lusso"
+        },
+        {
+            "label": "LaFerrari",
+            "tip_vozila": "coupe",
+            "value": "LaFerrari"
+        },
+        {
+            "label": "Portofino",
+            "tip_vozila": "coupe",
+            "value": "Portofino"
+        }
+    ],
+    "Fiat": [
+        {
+            "label": "1100",
+            "tip_vozila": "sedan",
+            "value": "1100"
+        },
+        {
+            "label": "126",
+            "tip_vozila": "hatchback",
+            "value": "126"
+        },
+        {
+            "label": "500",
+            "tip_vozila": "hatchback",
+            "value": "500"
+        },
+        {
+            "label": "500L",
+            "tip_vozila": "kombi",
+            "value": "500L"
+        },
+        {
+            "label": "500X",
+            "tip_vozila": "SUV",
+            "value": "500X"
+        },
+        {
+            "label": "850",
+            "tip_vozila": "sedan",
+            "value": "850"
+        },
+        {
+            "label": "Barchetta",
+            "tip_vozila": "coupe",
+            "value": "Barchetta"
+        },
+        {
+            "label": "Brava",
+            "tip_vozila": "sedan",
+            "value": "Brava"
+        },
+        {
+            "label": "Cinquecento",
+            "tip_vozila": "hatchback",
+            "value": "Cinquecento"
+        },
+        {
+            "label": "Coupé",
+            "tip_vozila": "coupe",
+            "value": "Coupé"
+        },
+        {
+            "label": "Croma",
+            "tip_vozila": "sedan",
+            "value": "Croma"
+        },
+        {
+            "label": "Doblo Cargo Combi",
+            "tip_vozila": "kombi",
+            "value": "Doblo Cargo Combi"
+        },
+        {
+            "label": "Doblo Cargo",
+            "tip_vozila": "kombi",
+            "value": "Doblo Cargo"
+        },
+        {
+            "label": "Doblo",
+            "tip_vozila": "kombi",
+            "value": "Doblo"
+        },
+        {
+            "label": "Ducato Kombi",
+            "tip_vozila": "kombi",
+            "value": "Ducato Kombi"
+        },
+        {
+            "label": "Ducato Podvozok",
+            "tip_vozila": "kombi",
+            "value": "Ducato Podvozok"
+        },
+        {
+            "label": "Ducato Van",
+            "tip_vozila": "kombi",
+            "value": "Ducato Van"
+        },
+        {
+            "label": "Ducato",
+            "tip_vozila": "kombi",
+            "value": "Ducato"
+        },
+        {
+            "label": "Florino Combi",
+            "tip_vozila": "kombi",
+            "value": "Florino Combi"
+        },
+        {
+            "label": "Florino",
+            "tip_vozila": "kombi",
+            "value": "Florino"
+        },
+        {
+            "label": "Freemont",
+            "tip_vozila": "SUV",
+            "value": "Freemont"
+        },
+        {
+            "label": "Grande Punto",
+            "tip_vozila": "hatchback",
+            "value": "Grande Punto"
+        },
+        {
+            "label": "Idea",
+            "tip_vozila": "kombi",
+            "value": "Idea"
+        },
+        {
+            "label": "Linea",
+            "tip_vozila": "sedan",
+            "value": "Linea"
+        },
+        {
+            "label": "Marea Weekend",
+            "tip_vozila": "kombi",
+            "value": "Marea Weekend"
+        },
+        {
+            "label": "Marea",
+            "tip_vozila": "sedan",
+            "value": "Marea"
+        },
+        {
+            "label": "Multipla",
+            "tip_vozila": "kombi",
+            "value": "Multipla"
+        },
+        {
+            "label": "Palio Weekend",
+            "tip_vozila": "kombi",
+            "value": "Palio Weekend"
+        },
+        {
+            "label": "Panda Van",
+            "tip_vozila": "kombi",
+            "value": "Panda Van"
+        },
+        {
+            "label": "Panda",
+            "tip_vozila": "hatchback",
+            "value": "Panda"
+        },
+        {
+            "label": "Punto Cabriolet",
+            "tip_vozila": "kabriolet",
+            "value": "Punto Cabriolet"
+        },
+        {
+            "label": "Punto Evo",
+            "tip_vozila": "hatchback",
+            "value": "Punto Evo"
+        },
+        {
+            "label": "Punto Van",
+            "tip_vozila": "kombi",
+            "value": "Punto Van"
+        },
+        {
+            "label": "Punto",
+            "tip_vozila": "hatchback",
+            "value": "Punto"
+        },
+        {
+            "label": "Qubo",
+            "tip_vozila": "kombi",
+            "value": "Qubo"
+        },
+        {
+            "label": "Scudo Kombi",
+            "tip_vozila": "kombi",
+            "value": "Scudo Kombi"
+        },
+        {
+            "label": "Scudo Van",
+            "tip_vozila": "kombi",
+            "value": "Scudo Van"
+        },
+        {
+            "label": "Scudo",
+            "tip_vozila": "kombi",
+            "value": "Scudo"
+        },
+        {
+            "label": "Sedici",
+            "tip_vozila": "SUV",
+            "value": "Sedici"
+        },
+        {
+            "label": "Seicento",
+            "tip_vozila": "hatchback",
+            "value": "Seicento"
+        },
+        {
+            "label": "Stilo Multiwagon",
+            "tip_vozila": "kombi",
+            "value": "Stilo Multiwagon"
+        },
+        {
+            "label": "Stilo",
+            "tip_vozila": "hatchback",
+            "value": "Stilo"
+        },
+        {
+            "label": "Strada",
+            "tip_vozila": "kombi",
+            "value": "Strada"
+        },
+        {
+            "label": "Talento",
+            "tip_vozila": "kombi",
+            "value": "Talento"
+        },
+        {
+            "label": "Tipo",
+            "tip_vozila": "hatchback",
+            "value": "Tipo"
+        },
+        {
+            "label": "Ulysse",
+            "tip_vozila": "kombi",
+            "value": "Ulysse"
+        },
+        {
+            "label": "Uno",
+            "tip_vozila": "hatchback",
+            "value": "Uno"
+        },
+        {
+            "label": "X1/9",
+            "tip_vozila": "coupe",
+            "value": "X1/9"
+        }
+    ],
+    "Ford": [
+        {
+            "label": "Aerostar",
+            "tip_vozila": "SUV",
+            "value": "Aerostar"
+        },
+        {
+            "label": "B-Max",
+            "tip_vozila": "hatchback",
+            "value": "B-Max"
+        },
+        {
+            "label": "C-Max",
+            "tip_vozila": "kombi",
+            "value": "C-Max"
+        },
+        {
+            "label": "Cortina",
+            "tip_vozila": "sedan",
+            "value": "Cortina"
+        },
+        {
+            "label": "Cougar",
+            "tip_vozila": "coupe",
+            "value": "Cougar"
+        },
+        {
+            "label": "Edge",
+            "tip_vozila": "SUV",
+            "value": "Edge"
+        },
+        {
+            "label": "Escort Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "Escort Cabrio"
+        },
+        {
+            "label": "Escort kombi",
+            "tip_vozila": "kombi",
+            "value": "Escort kombi"
+        },
+        {
+            "label": "Escort",
+            "tip_vozila": "sedan",
+            "value": "Escort"
+        },
+        {
+            "label": "Explorer",
+            "tip_vozila": "SUV",
+            "value": "Explorer"
+        },
+        {
+            "label": "F-150",
+            "tip_vozila": "SUV",
+            "value": "F-150"
+        },
+        {
+            "label": "F-250",
+            "tip_vozila": "SUV",
+            "value": "F-250"
+        },
+        {
+            "label": "Fiesta",
+            "tip_vozila": "hatchback",
+            "value": "Fiesta"
+        },
+        {
+            "label": "Focus C-Max",
+            "tip_vozila": "kombi",
+            "value": "Focus C-Max"
+        },
+        {
+            "label": "Focus CC",
+            "tip_vozila": "coupe",
+            "value": "Focus CC"
+        },
+        {
+            "label": "Focus kombi",
+            "tip_vozila": "kombi",
+            "value": "Focus kombi"
+        },
+        {
+            "label": "Focus",
+            "tip_vozila": "hatchback",
+            "value": "Focus"
+        },
+        {
+            "label": "Fusion",
+            "tip_vozila": "sedan",
+            "value": "Fusion"
+        },
+        {
+            "label": "Galaxy",
+            "tip_vozila": "kombi",
+            "value": "Galaxy"
+        },
+        {
+            "label": "Grand C-Max",
+            "tip_vozila": "kombi",
+            "value": "Grand C-Max"
+        },
+        {
+            "label": "Ka",
+            "tip_vozila": "hatchback",
+            "value": "Ka"
+        },
+        {
+            "label": "Kuga",
+            "tip_vozila": "SUV",
+            "value": "Kuga"
+        },
+        {
+            "label": "Maverick",
+            "tip_vozila": "SUV",
+            "value": "Maverick"
+        },
+        {
+            "label": "Mondeo Combi",
+            "tip_vozila": "kombi",
+            "value": "Mondeo Combi"
+        },
+        {
+            "label": "Mondeo",
+            "tip_vozila": "sedan",
+            "value": "Mondeo"
+        },
+        {
+            "label": "Mustang",
+            "tip_vozila": "coupe",
+            "value": "Mustang"
+        },
+        {
+            "label": "Orion",
+            "tip_vozila": "sedan",
+            "value": "Orion"
+        },
+        {
+            "label": "Puma",
+            "tip_vozila": "coupe",
+            "value": "Puma"
+        },
+        {
+            "label": "Ranger",
+            "tip_vozila": "SUV",
+            "value": "Ranger"
+        },
+        {
+            "label": "S-Max",
+            "tip_vozila": "kombi",
+            "value": "S-Max"
+        },
+        {
+            "label": "Sierra",
+            "tip_vozila": "sedan",
+            "value": "Sierra"
+        },
+        {
+            "label": "Street Ka",
+            "tip_vozila": "coupe",
+            "value": "Street Ka"
+        },
+        {
+            "label": "Tourneo Connect",
+            "tip_vozila": "kombi",
+            "value": "Tourneo Connect"
+        },
+        {
+            "label": "Tourneo Custom",
+            "tip_vozila": "kombi",
+            "value": "Tourneo Custom"
+        },
+        {
+            "label": "Transit Bus",
+            "tip_vozila": "kombi",
+            "value": "Transit Bus"
+        },
+        {
+            "label": "Transit Connect LWB",
+            "tip_vozila": "kombi",
+            "value": "Transit Connect LWB"
+        },
+        {
+            "label": "Transit Courier",
+            "tip_vozila": "kombi",
+            "value": "Transit Courier"
+        },
+        {
+            "label": "Transit Custom",
+            "tip_vozila": "kombi",
+            "value": "Transit Custom"
+        },
+        {
+            "label": "Transit Tourneo",
+            "tip_vozila": "kombi",
+            "value": "Transit Tourneo"
+        },
+        {
+            "label": "Transit Valnik",
+            "tip_vozila": "SUV",
+            "value": "Transit Valnik"
+        },
+        {
+            "label": "Transit Van 350",
+            "tip_vozila": "kombi",
+            "value": "Transit Van 350"
+        },
+        {
+            "label": "Transit Van",
+            "tip_vozila": "kombi",
+            "value": "Transit Van"
+        },
+        {
+            "label": "Transit kombi",
+            "tip_vozila": "kombi",
+            "value": "Transit kombi"
+        },
+        {
+            "label": "Transit",
+            "tip_vozila": "kombi",
+            "value": "Transit"
+        },
+        {
+            "label": "Windstar",
+            "tip_vozila": "kombi",
+            "value": "Windstar"
+        }
+    ],
+    "Honda": [
+        {
+            "label": "Accord Coupé",
+            "tip_vozila": "coupe",
+            "value": "Accord Coupé"
+        },
+        {
+            "label": "Accord Tourer",
+            "tip_vozila": "kombi",
+            "value": "Accord Tourer"
+        },
+        {
+            "label": "Accord",
+            "tip_vozila": "sedan",
+            "value": "Accord"
+        },
+        {
+            "label": "CR-V",
+            "tip_vozila": "SUV",
+            "value": "CR-V"
+        },
+        {
+            "label": "CR-X",
+            "tip_vozila": "coupe",
+            "value": "CR-X"
+        },
+        {
+            "label": "CR-Z",
+            "tip_vozila": "coupe",
+            "value": "CR-Z"
+        },
+        {
+            "label": "City",
+            "tip_vozila": "sedan",
+            "value": "City"
+        },
+        {
+            "label": "Civic Aerodeck",
+            "tip_vozila": "kombi",
+            "value": "Civic Aerodeck"
+        },
+        {
+            "label": "Civic Coupé",
+            "tip_vozila": "coupe",
+            "value": "Civic Coupé"
+        },
+        {
+            "label": "Civic Tourer",
+            "tip_vozila": "kombi",
+            "value": "Civic Tourer"
+        },
+        {
+            "label": "Civic Type R",
+            "tip_vozila": "hatchback",
+            "value": "Civic Type R"
+        },
+        {
+            "label": "Civic",
+            "tip_vozila": "hatchback",
+            "value": "Civic"
+        },
+        {
+            "label": "FR-V",
+            "tip_vozila": "kombi",
+            "value": "FR-V"
+        },
+        {
+            "label": "HR-V",
+            "tip_vozila": "SUV",
+            "value": "HR-V"
+        },
+        {
+            "label": "Insight",
+            "tip_vozila": "sedan",
+            "value": "Insight"
+        },
+        {
+            "label": "Integra",
+            "tip_vozila": "coupe",
+            "value": "Integra"
+        },
+        {
+            "label": "Jazz",
+            "tip_vozila": "hatchback",
+            "value": "Jazz"
+        },
+        {
+            "label": "Legend",
+            "tip_vozila": "sedan",
+            "value": "Legend"
+        },
+        {
+            "label": "Prelude",
+            "tip_vozila": "coupe",
+            "value": "Prelude"
+        }
+    ],
+    "Hummer": [
+        {
+            "label": "H2",
+            "tip_vozila": "SUV",
+            "value": "H2"
+        },
+        {
+            "label": "H3",
+            "tip_vozila": "SUV",
+            "value": "H3"
+        }
+    ],
+    "Hyundai": [
+        {
+            "label": "Accent",
+            "tip_vozila": "sedan",
+            "value": "Accent"
+        },
+        {
+            "label": "Atos Prime",
+            "tip_vozila": "hatchback",
+            "value": "Atos Prime"
+        },
+        {
+            "label": "Atos",
+            "tip_vozila": "hatchback",
+            "value": "Atos"
+        },
+        {
+            "label": "Coupé",
+            "tip_vozila": "coupe",
+            "value": "Coupé"
+        },
+        {
+            "label": "Elantra",
+            "tip_vozila": "sedan",
+            "value": "Elantra"
+        },
+        {
+            "label": "Galloper",
+            "tip_vozila": "SUV",
+            "value": "Galloper"
+        },
+        {
+            "label": "Genesis",
+            "tip_vozila": "sedan",
+            "value": "Genesis"
+        },
+        {
+            "label": "Getz",
+            "tip_vozila": "hatchback",
+            "value": "Getz"
+        },
+        {
+            "label": "Grandeur",
+            "tip_vozila": "sedan",
+            "value": "Grandeur"
+        },
+        {
+            "label": "H 350",
+            "tip_vozila": "SUV",
+            "value": "H 350"
+        },
+        {
+            "label": "H1 Bus",
+            "tip_vozila": "kombi",
+            "value": "H1 Bus"
+        },
+        {
+            "label": "H1 Van",
+            "tip_vozila": "kombi",
+            "value": "H1 Van"
+        },
+        {
+            "label": "H1",
+            "tip_vozila": "SUV",
+            "value": "H1"
+        },
+        {
+            "label": "H200",
+            "tip_vozila": "SUV",
+            "value": "H200"
+        },
+        {
+            "label": "Lantra",
+            "tip_vozila": "sedan",
+            "value": "Lantra"
+        },
+        {
+            "label": "Matrix",
+            "tip_vozila": "kombi",
+            "value": "Matrix"
+        },
+        {
+            "label": "Santa Fe",
+            "tip_vozila": "SUV",
+            "value": "Santa Fe"
+        },
+        {
+            "label": "Sonata",
+            "tip_vozila": "sedan",
+            "value": "Sonata"
+        },
+        {
+            "label": "Terracan",
+            "tip_vozila": "SUV",
+            "value": "Terracan"
+        },
+        {
+            "label": "Trajet",
+            "tip_vozila": "kombi",
+            "value": "Trajet"
+        },
+        {
+            "label": "Tucson",
+            "tip_vozila": "SUV",
+            "value": "Tucson"
+        },
+        {
+            "label": "Veloster",
+            "tip_vozila": "coupe",
+            "value": "Veloster"
+        },
+        {
+            "label": "i10",
+            "tip_vozila": "hatchback",
+            "value": "i10"
+        },
+        {
+            "label": "i20",
+            "tip_vozila": "hatchback",
+            "value": "i20"
+        },
+        {
+            "label": "i30 CW",
+            "tip_vozila": "kombi",
+            "value": "i30 CW"
+        },
+        {
+            "label": "i30",
+            "tip_vozila": "hatchback",
+            "value": "i30"
+        },
+        {
+            "label": "i40 CW",
+            "tip_vozila": "kombi",
+            "value": "i40 CW"
+        },
+        {
+            "label": "i40",
+            "tip_vozila": "sedan",
+            "value": "i40"
+        },
+        {
+            "label": "ix20",
+            "tip_vozila": "SUV",
+            "value": "ix20"
+        },
+        {
+            "label": "ix35",
+            "tip_vozila": "SUV",
+            "value": "ix35"
+        },
+        {
+            "label": "ix55",
+            "tip_vozila": "SUV",
+            "value": "ix55"
+        }
+    ],
+    "Infiniti": [
+        {
+            "label": "EX",
+            "tip_vozila": "SUV",
+            "value": "EX"
+        },
+        {
+            "label": "FX",
+            "tip_vozila": "SUV",
+            "value": "FX"
+        },
+        {
+            "label": "G Coupé",
+            "tip_vozila": "coupe",
+            "value": "G Coupé"
+        },
+        {
+            "label": "G",
+            "tip_vozila": "sedan",
+            "value": "G"
+        },
+        {
+            "label": "M",
+            "tip_vozila": "sedan",
+            "value": "M"
+        },
+        {
+            "label": "Q",
+            "tip_vozila": "sedan",
+            "value": "Q"
+        },
+        {
+            "label": "QX",
+            "tip_vozila": "SUV",
+            "value": "QX"
+        }
+    ],
+    "Jaguar": [
+        {
+            "label": "Daimler",
+            "tip_vozila": "sedan",
+            "value": "Daimler"
+        },
+        {
+            "label": "F-Pace",
+            "tip_vozila": "SUV",
+            "value": "F-Pace"
+        },
+        {
+            "label": "F-Type",
+            "tip_vozila": "coupe",
+            "value": "F-Type"
+        },
+        {
+            "label": "S-Type",
+            "tip_vozila": "sedan",
+            "value": "S-Type"
+        },
+        {
+            "label": "Sovereign",
+            "tip_vozila": "sedan",
+            "value": "Sovereign"
+        },
+        {
+            "label": "X-Type",
+            "tip_vozila": "sedan",
+            "value": "X-Type"
+        },
+        {
+            "label": "X-type Estate",
+            "tip_vozila": "kombi",
+            "value": "X-type Estate"
+        },
+        {
+            "label": "XE",
+            "tip_vozila": "sedan",
+            "value": "XE"
+        },
+        {
+            "label": "XF",
+            "tip_vozila": "sedan",
+            "value": "XF"
+        },
+        {
+            "label": "XJ",
+            "tip_vozila": "sedan",
+            "value": "XJ"
+        },
+        {
+            "label": "XJ12",
+            "tip_vozila": "sedan",
+            "value": "XJ12"
+        },
+        {
+            "label": "XJ6",
+            "tip_vozila": "sedan",
+            "value": "XJ6"
+        },
+        {
+            "label": "XJ8",
+            "tip_vozila": "sedan",
+            "value": "XJ8"
+        },
+        {
+            "label": "XJ8",
+            "tip_vozila": "sedan",
+            "value": "XJ8"
+        },
+        {
+            "label": "XJR",
+            "tip_vozila": "sedan",
+            "value": "XJR"
+        },
+        {
+            "label": "XK",
+            "tip_vozila": "coupe",
+            "value": "XK"
+        },
+        {
+            "label": "XK8 Convertible",
+            "tip_vozila": "kabriolet",
+            "value": "XK8 Convertible"
+        },
+        {
+            "label": "XKR Convertible",
+            "tip_vozila": "kabriolet",
+            "value": "XKR Convertible"
+        },
+        {
+            "label": "XKR",
+            "tip_vozila": "coupe",
+            "value": "XKR"
+        }
+    ],
+    "Jeep": [
+        {
+            "label": "Cherokee",
+            "tip_vozila": "SUV",
+            "value": "Cherokee"
+        },
+        {
+            "label": "Commander",
+            "tip_vozila": "SUV",
+            "value": "Commander"
+        },
+        {
+            "label": "Compass",
+            "tip_vozila": "SUV",
+            "value": "Compass"
+        },
+        {
+            "label": "Grand Cherokee",
+            "tip_vozila": "SUV",
+            "value": "Grand Cherokee"
+        },
+        {
+            "label": "Patriot",
+            "tip_vozila": "SUV",
+            "value": "Patriot"
+        },
+        {
+            "label": "Renegade",
+            "tip_vozila": "SUV",
+            "value": "Renegade"
+        },
+        {
+            "label": "Wrangler",
+            "tip_vozila": "SUV",
+            "value": "Wrangler"
+        }
+    ],
+    "Kia": [
+        {
+            "label": "Avella",
+            "tip_vozila": "sedan",
+            "value": "Avella"
+        },
+        {
+            "label": "Besta",
+            "tip_vozila": "SUV",
+            "value": "Besta"
+        },
+        {
+            "label": "Carens",
+            "tip_vozila": "kombi",
+            "value": "Carens"
+        },
+        {
+            "label": "Carnival",
+            "tip_vozila": "kombi",
+            "value": "Carnival"
+        },
+        {
+            "label": "Cee`d SW",
+            "tip_vozila": "kombi",
+            "value": "Cee`d SW"
+        },
+        {
+            "label": "Cee`d",
+            "tip_vozila": "hatchback",
+            "value": "Cee`d"
+        },
+        {
+            "label": "Cerato",
+            "tip_vozila": "sedan",
+            "value": "Cerato"
+        },
+        {
+            "label": "K 2500",
+            "tip_vozila": "SUV",
+            "value": "K 2500"
+        },
+        {
+            "label": "Magentis",
+            "tip_vozila": "sedan",
+            "value": "Magentis"
+        },
+        {
+            "label": "Opirus",
+            "tip_vozila": "sedan",
+            "value": "Opirus"
+        },
+        {
+            "label": "Optima",
+            "tip_vozila": "sedan",
+            "value": "Optima"
+        },
+        {
+            "label": "Picanto",
+            "tip_vozila": "hatchback",
+            "value": "Picanto"
+        },
+        {
+            "label": "Pregio",
+            "tip_vozila": "kombi",
+            "value": "Pregio"
+        },
+        {
+            "label": "Pride",
+            "tip_vozila": "hatchback",
+            "value": "Pride"
+        },
+        {
+            "label": "Pro Cee`d",
+            "tip_vozila": "coupe",
+            "value": "Pro Cee`d"
+        },
+        {
+            "label": "Rio Combi",
+            "tip_vozila": "kombi",
+            "value": "Rio Combi"
+        },
+        {
+            "label": "Rio sedan",
+            "tip_vozila": "sedan",
+            "value": "Rio sedan"
+        },
+        {
+            "label": "Rio",
+            "tip_vozila": "hatchback",
+            "value": "Rio"
+        },
+        {
+            "label": "Sephia",
+            "tip_vozila": "sedan",
+            "value": "Sephia"
+        },
+        {
+            "label": "Shuma",
+            "tip_vozila": "sedan",
+            "value": "Shuma"
+        },
+        {
+            "label": "Sorento",
+            "tip_vozila": "SUV",
+            "value": "Sorento"
+        },
+        {
+            "label": "Soul",
+            "tip_vozila": "hatchback",
+            "value": "Soul"
+        },
+        {
+            "label": "Sportage",
+            "tip_vozila": "SUV",
+            "value": "Sportage"
+        },
+        {
+            "label": "Venga",
+            "tip_vozila": "hatchback",
+            "value": "Venga"
+        }
+    ],
+    "Lada": [
+        {
+            "label": "1200",
+            "tip_vozila": "sedan",
+            "value": "1200"
+        },
+        {
+            "label": "2101",
+            "tip_vozila": "sedan",
+            "value": "2101"
+        },
+        {
+            "label": "2107",
+            "tip_vozila": "sedan",
+            "value": "2107"
+        },
+        {
+            "label": "Granta",
+            "tip_vozila": "sedan",
+            "value": "Granta"
+        },
+        {
+            "label": "Niva",
+            "tip_vozila": "SUV",
+            "value": "Niva"
+        },
+        {
+            "label": "Samara",
+            "tip_vozila": "hatchback",
+            "value": "Samara"
+        }
+    ],
+    "Lamborghini": [
+        {
+            "label": "Aventador Roadster",
+            "tip_vozila": "kabriolet",
+            "value": "Aventador Roadster"
+        },
+        {
+            "label": "Aventador",
+            "tip_vozila": "coupe",
+            "value": "Aventador"
+        },
+        {
+            "label": "Gallardo Spyder",
+            "tip_vozila": "kabriolet",
+            "value": "Gallardo Spyder"
+        },
+        {
+            "label": "Gallardo",
+            "tip_vozila": "coupe",
+            "value": "Gallardo"
+        },
+        {
+            "label": "Huracán Spyder",
+            "tip_vozila": "kabriolet",
+            "value": "Huracán Spyder"
+        },
+        {
+            "label": "Huracán",
+            "tip_vozila": "coupe",
+            "value": "Huracán"
+        },
+        {
+            "label": "Murciélago Roadster",
+            "tip_vozila": "kabriolet",
+            "value": "Murciélago Roadster"
+        },
+        {
+            "label": "Murciélago",
+            "tip_vozila": "coupe",
+            "value": "Murciélago"
+        },
+        {
+            "label": "Urus",
+            "tip_vozila": "SUV",
+            "value": "Urus"
+        }
+    ],
+    "Land Rover": [
+        {
+            "label": "109",
+            "tip_vozila": "SUV",
+            "value": "109"
+        },
+        {
+            "label": "Defender",
+            "tip_vozila": "SUV",
+            "value": "Defender"
+        },
+        {
+            "label": "Discovery Sport",
+            "tip_vozila": "SUV",
+            "value": "Discovery Sport"
+        },
+        {
+            "label": "Discovery",
+            "tip_vozila": "SUV",
+            "value": "Discovery"
+        },
+        {
+            "label": "Freelander",
+            "tip_vozila": "SUV",
+            "value": "Freelander"
+        },
+        {
+            "label": "Range Rover Evoque",
+            "tip_vozila": "SUV",
+            "value": "Range Rover Evoque"
+        },
+        {
+            "label": "Range Rover Sport",
+            "tip_vozila": "SUV",
+            "value": "Range Rover Sport"
+        },
+        {
+            "label": "Range Rover",
+            "tip_vozila": "SUV",
+            "value": "Range Rover"
+        }
+    ],
+    "Lexus": [
+        {
+            "label": "CT",
+            "tip_vozila": "hatchback",
+            "value": "CT"
+        },
+        {
+            "label": "GS 300",
+            "tip_vozila": "sedan",
+            "value": "GS 300"
+        },
+        {
+            "label": "GS",
+            "tip_vozila": "sedan",
+            "value": "GS"
+        },
+        {
+            "label": "GX",
+            "tip_vozila": "SUV",
+            "value": "GX"
+        },
+        {
+            "label": "IS 200",
+            "tip_vozila": "sedan",
+            "value": "IS 200"
+        },
+        {
+            "label": "IS 250 C",
+            "tip_vozila": "kabriolet",
+            "value": "IS 250 C"
+        },
+        {
+            "label": "IS",
+            "tip_vozila": "sedan",
+            "value": "IS"
+        },
+        {
+            "label": "IS-F",
+            "tip_vozila": "sedan",
+            "value": "IS-F"
+        },
+        {
+            "label": "LS",
+            "tip_vozila": "sedan",
+            "value": "LS"
+        },
+        {
+            "label": "LX",
+            "tip_vozila": "SUV",
+            "value": "LX"
+        },
+        {
+            "label": "NX",
+            "tip_vozila": "SUV",
+            "value": "NX"
+        },
+        {
+            "label": "RC F",
+            "tip_vozila": "coupe",
+            "value": "RC F"
+        },
+        {
+            "label": "RX 300",
+            "tip_vozila": "SUV",
+            "value": "RX 300"
+        },
+        {
+            "label": "RX 400h",
+            "tip_vozila": "SUV",
+            "value": "RX 400h"
+        },
+        {
+            "label": "RX 450h",
+            "tip_vozila": "SUV",
+            "value": "RX 450h"
+        },
+        {
+            "label": "RX",
+            "tip_vozila": "SUV",
+            "value": "RX"
+        },
+        {
+            "label": "SC 430",
+            "tip_vozila": "kabriolet",
+            "value": "SC 430"
+        }
+    ],
+    "Maserati": [
+        {
+            "label": "Ghibli",
+            "tip_vozila": "sedan",
+            "value": "Ghibli"
+        },
+        {
+            "label": "GranCabrio",
+            "tip_vozila": "kabriolet",
+            "value": "GranCabrio"
+        },
+        {
+            "label": "GranTurismo",
+            "tip_vozila": "coupe",
+            "value": "GranTurismo"
+        },
+        {
+            "label": "Levante",
+            "tip_vozila": "SUV",
+            "value": "Levante"
+        },
+        {
+            "label": "Quattroporte",
+            "tip_vozila": "sedan",
+            "value": "Quattroporte"
+        }
+    ],
+    "Mazda": [
+        {
+            "label": "121",
+            "tip_vozila": "hatchback",
+            "value": "121"
+        },
+        {
+            "label": "2",
+            "tip_vozila": "hatchback",
+            "value": "2"
+        },
+        {
+            "label": "3",
+            "tip_vozila": "hatchback",
+            "value": "3"
+        },
+        {
+            "label": "323 Combi",
+            "tip_vozila": "kombi",
+            "value": "323 Combi"
+        },
+        {
+            "label": "323 Coupé",
+            "tip_vozila": "coupe",
+            "value": "323 Coupé"
+        },
+        {
+            "label": "323 F",
+            "tip_vozila": "hatchback",
+            "value": "323 F"
+        },
+        {
+            "label": "323",
+            "tip_vozila": "hatchback",
+            "value": "323"
+        },
+        {
+            "label": "5",
+            "tip_vozila": "kombi",
+            "value": "5"
+        },
+        {
+            "label": "6 Combi",
+            "tip_vozila": "kombi",
+            "value": "6 Combi"
+        },
+        {
+            "label": "6",
+            "tip_vozila": "sedan",
+            "value": "6"
+        },
+        {
+            "label": "626 Combi",
+            "tip_vozila": "kombi",
+            "value": "626 Combi"
+        },
+        {
+            "label": "626",
+            "tip_vozila": "sedan",
+            "value": "626"
+        },
+        {
+            "label": "CX-3",
+            "tip_vozila": "SUV",
+            "value": "CX-3"
+        },
+        {
+            "label": "CX-5",
+            "tip_vozila": "SUV",
+            "value": "CX-5"
+        },
+        {
+            "label": "CX-7",
+            "tip_vozila": "SUV",
+            "value": "CX-7"
+        },
+        {
+            "label": "CX-9",
+            "tip_vozila": "SUV",
+            "value": "CX-9"
+        },
+        {
+            "label": "Demio",
+            "tip_vozila": "hatchback",
+            "value": "Demio"
+        },
+        {
+            "label": "MX-3",
+            "tip_vozila": "coupe",
+            "value": "MX-3"
+        },
+        {
+            "label": "MX-5",
+            "tip_vozila": "coupe",
+            "value": "MX-5"
+        },
+        {
+            "label": "MX-6",
+            "tip_vozila": "coupe",
+            "value": "MX-6"
+        },
+        {
+            "label": "Premacy",
+            "tip_vozila": "kombi",
+            "value": "Premacy"
+        },
+        {
+            "label": "RX-7",
+            "tip_vozila": "coupe",
+            "value": "RX-7"
+        },
+        {
+            "label": "RX-8",
+            "tip_vozila": "coupe",
+            "value": "RX-8"
+        },
+        {
+            "label": "Xedox 6",
+            "tip_vozila": "sedan",
+            "value": "Xedox 6"
+        },
+        {
+            "label": "kombi",
+            "tip_vozila": "kombi",
+            "value": "kombi"
+        }
+    ],
+    "McLaren": [
+        {
+            "label": "720S",
+            "tip_vozila": "coupe",
+            "value": "720S"
+        },
+        {
+            "label": "Artura",
+            "tip_vozila": "coupe",
+            "value": "Artura"
+        },
+        {
+            "label": "765LT",
+            "tip_vozila": "coupe",
+            "value": "765LT"
+        },
+        {
+            "label": "GT",
+            "tip_vozila": "coupe",
+            "value": "GT"
+        },
+        {
+            "label": "Senna",
+            "tip_vozila": "coupe",
+            "value": "Senna"
+        },
+        {
+            "label": "P1",
+            "tip_vozila": "coupe",
+            "value": "P1"
+        },
+        {
+            "label": "Speedtail",
+            "tip_vozila": "coupe",
+            "value": "Speedtail"
+        }
+    ],
+    "Mercedes": [
+        {
+            "label": "A-Class",
+            "tip_vozila": "hatchback",
+            "value": "a-class"
+        },
+        {
+            "label": "B-Class",
+            "tip_vozila": "karavan",
+            "value": "b-class"
+        },
+        {
+            "label": "C-Class Coupé",
+            "tip_vozila": "coupe",
+            "value": "c-class-coupe"
+        },
+        {
+            "label": "C-Class Estate",
+            "tip_vozila": "karavan",
+            "value": "c-class-estate"
+        },
+        {
+            "label": "C-Class",
+            "tip_vozila": "sedan",
+            "value": "c-class"
+        },
+        {
+            "label": "CLA Coupé",
+            "tip_vozila": "coupe",
+            "value": "cla-coupe"
+        },
+        {
+            "label": "CLA Shooting Brake",
+            "tip_vozila": "karavan",
+            "value": "cla-shooting-brake"
+        },
+        {
+            "label": "CLA",
+            "tip_vozila": "sedan",
+            "value": "cla"
+        },
+        {
+            "label": "CLS Shooting Brake",
+            "tip_vozila": "karavan",
+            "value": "cls-shooting-brake"
+        },
+        {
+            "label": "CLS",
+            "tip_vozila": "sedan",
+            "value": "cls"
+        },
+        {
+            "label": "E-Class Coupé",
+            "tip_vozila": "coupe",
+            "value": "e-class-coupe"
+        },
+        {
+            "label": "E-Class Estate",
+            "tip_vozila": "karavan",
+            "value": "e-class-estate"
+        },
+        {
+            "label": "E-Class",
+            "tip_vozila": "sedan",
+            "value": "e-class"
+        },
+        {
+            "label": "G-Class",
+            "tip_vozila": "SUV",
+            "value": "g-class"
+        },
+        {
+            "label": "GL",
+            "tip_vozila": "SUV",
+            "value": "gl"
+        },
+        {
+            "label": "GLA",
+            "tip_vozila": "SUV",
+            "value": "gla"
+        },
+        {
+            "label": "GLB",
+            "tip_vozila": "SUV",
+            "value": "glb"
+        },
+        {
+            "label": "GLC",
+            "tip_vozila": "SUV",
+            "value": "glc"
+        },
+        {
+            "label": "GLE",
+            "tip_vozila": "SUV",
+            "value": "gle"
+        },
+        {
+            "label": "GLS",
+            "tip_vozila": "SUV",
+            "value": "gls"
+        },
+        {
+            "label": "S-Class Coupé",
+            "tip_vozila": "coupe",
+            "value": "s-class-coupe"
+        },
+        {
+            "label": "S-Class",
+            "tip_vozila": "sedan",
+            "value": "s-class"
+        },
+        {
+            "label": "SL",
+            "tip_vozila": "kabriolet",
+            "value": "sl"
+        },
+        {
+            "label": "SLK",
+            "tip_vozila": "kabriolet",
+            "value": "slk"
+        },
+        {
+            "label": "V-Class",
+            "tip_vozila": "kombi",
+            "value": "v-class"
+        }
+    ],
+    "MINI": [
+        {
+            "label": "Cooper Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "Cooper Cabrio"
+        },
+        {
+            "label": "Cooper Clubman",
+            "tip_vozila": "hatchback",
+            "value": "Cooper Clubman"
+        },
+        {
+            "label": "Cooper D Clubman",
+            "tip_vozila": "hatchback",
+            "value": "Cooper D Clubman"
+        },
+        {
+            "label": "Cooper D",
+            "tip_vozila": "hatchback",
+            "value": "Cooper D"
+        },
+        {
+            "label": "Cooper S Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "Cooper S Cabrio"
+        },
+        {
+            "label": "Cooper S Clubman",
+            "tip_vozila": "hatchback",
+            "value": "Cooper S Clubman"
+        },
+        {
+            "label": "Cooper S",
+            "tip_vozila": "hatchback",
+            "value": "Cooper S"
+        },
+        {
+            "label": "Cooper",
+            "tip_vozila": "hatchback",
+            "value": "Cooper"
+        },
+        {
+            "label": "Countryman",
+            "tip_vozila": "SUV",
+            "value": "Countryman"
+        },
+        {
+            "label": "Mini One",
+            "tip_vozila": "hatchback",
+            "value": "Mini One"
+        },
+        {
+            "label": "One D",
+            "tip_vozila": "hatchback",
+            "value": "One D"
+        }
+    ],
+    "Mitsubishi": [
+        {
+            "label": "3000 GT",
+            "tip_vozila": "coupe",
+            "value": "3000 GT"
+        },
+        {
+            "label": "ASX",
+            "tip_vozila": "SUV",
+            "value": "ASX"
+        },
+        {
+            "label": "Carisma",
+            "tip_vozila": "sedan",
+            "value": "Carisma"
+        },
+        {
+            "label": "Colt CC",
+            "tip_vozila": "kabriolet",
+            "value": "Colt CC"
+        },
+        {
+            "label": "Colt",
+            "tip_vozila": "hatchback",
+            "value": "Colt"
+        },
+        {
+            "label": "Eclipse",
+            "tip_vozila": "coupe",
+            "value": "Eclipse"
+        },
+        {
+            "label": "Fuso canter",
+            "tip_vozila": "kombi",
+            "value": "Fuso canter"
+        },
+        {
+            "label": "Galant Combi",
+            "tip_vozila": "kombi",
+            "value": "Galant Combi"
+        },
+        {
+            "label": "Galant",
+            "tip_vozila": "sedan",
+            "value": "Galant"
+        },
+        {
+            "label": "Grandis",
+            "tip_vozila": "kombi",
+            "value": "Grandis"
+        },
+        {
+            "label": "L200 Pick up Allrad",
+            "tip_vozila": "kombi",
+            "value": "L200 Pick up Allrad"
+        },
+        {
+            "label": "L200 Pick up",
+            "tip_vozila": "kombi",
+            "value": "L200 Pick up"
+        },
+        {
+            "label": "L200",
+            "tip_vozila": "kombi",
+            "value": "L200"
+        },
+        {
+            "label": "L300",
+            "tip_vozila": "kombi",
+            "value": "L300"
+        },
+        {
+            "label": "Lancer Combi",
+            "tip_vozila": "kombi",
+            "value": "Lancer Combi"
+        },
+        {
+            "label": "Lancer Evo",
+            "tip_vozila": "sedan",
+            "value": "Lancer Evo"
+        },
+        {
+            "label": "Lancer Sportback",
+            "tip_vozila": "hatchback",
+            "value": "Lancer Sportback"
+        },
+        {
+            "label": "Lancer",
+            "tip_vozila": "sedan",
+            "value": "Lancer"
+        },
+        {
+            "label": "Outlander",
+            "tip_vozila": "SUV",
+            "value": "Outlander"
+        },
+        {
+            "label": "Pajero Sport",
+            "tip_vozila": "SUV",
+            "value": "Pajero Sport"
+        },
+        {
+            "label": "Pajero",
+            "tip_vozila": "SUV",
+            "value": "Pajero"
+        },
+        {
+            "label": "Pajeto Pinin",
+            "tip_vozila": "SUV",
+            "value": "Pajeto Pinin"
+        },
+        {
+            "label": "Space Star",
+            "tip_vozila": "hatchback",
+            "value": "Space Star"
+        }
+    ],
+    "Nissan": [
+        {
+            "label": "100 NX",
+            "tip_vozila": "coupe",
+            "value": "100 NX"
+        },
+        {
+            "label": "200 SX",
+            "tip_vozila": "coupe",
+            "value": "200 SX"
+        },
+        {
+            "label": "350 Z Roadster",
+            "tip_vozila": "kabriolet",
+            "value": "350 Z Roadster"
+        },
+        {
+            "label": "350 Z",
+            "tip_vozila": "coupe",
+            "value": "350 Z"
+        },
+        {
+            "label": "370 Z",
+            "tip_vozila": "coupe",
+            "value": "370 Z"
+        },
+        {
+            "label": "Almera Tino",
+            "tip_vozila": "kombi",
+            "value": "Almera Tino"
+        },
+        {
+            "label": "Almera",
+            "tip_vozila": "sedan",
+            "value": "Almera"
+        },
+        {
+            "label": "Cabstar E - T",
+            "tip_vozila": "SUV",
+            "value": "Cabstar E - T"
+        },
+        {
+            "label": "Cabstar TL2 Valnik",
+            "tip_vozila": "SUV",
+            "value": "Cabstar TL2 Valnik"
+        },
+        {
+            "label": "GT-R",
+            "tip_vozila": "coupe",
+            "value": "GT-R"
+        },
+        {
+            "label": "Insterstar",
+            "tip_vozila": "SUV",
+            "value": "Insterstar"
+        },
+        {
+            "label": "Juke",
+            "tip_vozila": "SUV",
+            "value": "Juke"
+        },
+        {
+            "label": "King Cab",
+            "tip_vozila": "SUV",
+            "value": "King Cab"
+        },
+        {
+            "label": "Leaf",
+            "tip_vozila": "hatchback",
+            "value": "Leaf"
+        },
+        {
+            "label": "Maxima QX",
+            "tip_vozila": "sedan",
+            "value": "Maxima QX"
+        },
+        {
+            "label": "Maxima",
+            "tip_vozila": "sedan",
+            "value": "Maxima"
+        },
+        {
+            "label": "Micra",
+            "tip_vozila": "hatchback",
+            "value": "Micra"
+        },
+        {
+            "label": "Murano",
+            "tip_vozila": "SUV",
+            "value": "Murano"
+        },
+        {
+            "label": "NP300 Pickup",
+            "tip_vozila": "SUV",
+            "value": "NP300 Pickup"
+        },
+        {
+            "label": "NV200",
+            "tip_vozila": "kombi",
+            "value": "NV200"
+        },
+        {
+            "label": "NV400",
+            "tip_vozila": "kombi",
+            "value": "NV400"
+        },
+        {
+            "label": "Navara",
+            "tip_vozila": "SUV",
+            "value": "Navara"
+        },
+        {
+            "label": "Note",
+            "tip_vozila": "hatchback",
+            "value": "Note"
+        },
+        {
+            "label": "Pathfinder",
+            "tip_vozila": "SUV",
+            "value": "Pathfinder"
+        },
+        {
+            "label": "Patrol GR",
+            "tip_vozila": "SUV",
+            "value": "Patrol GR"
+        },
+        {
+            "label": "Patrol",
+            "tip_vozila": "SUV",
+            "value": "Patrol"
+        },
+        {
+            "label": "Pickup",
+            "tip_vozila": "SUV",
+            "value": "Pickup"
+        },
+        {
+            "label": "Pixo",
+            "tip_vozila": "hatchback",
+            "value": "Pixo"
+        },
+        {
+            "label": "Primastar Combi",
+            "tip_vozila": "kombi",
+            "value": "Primastar Combi"
+        },
+        {
+            "label": "Primastar",
+            "tip_vozila": "kombi",
+            "value": "Primastar"
+        },
+        {
+            "label": "Primera Combi",
+            "tip_vozila": "kombi",
+            "value": "Primera Combi"
+        },
+        {
+            "label": "Primera",
+            "tip_vozila": "sedan",
+            "value": "Primera"
+        },
+        {
+            "label": "Pulsar",
+            "tip_vozila": "hatchback",
+            "value": "Pulsar"
+        },
+        {
+            "label": "Qashqai",
+            "tip_vozila": "SUV",
+            "value": "Qashqai"
+        },
+        {
+            "label": "Serena",
+            "tip_vozila": "kombi",
+            "value": "Serena"
+        },
+        {
+            "label": "Sunny",
+            "tip_vozila": "sedan",
+            "value": "Sunny"
+        },
+        {
+            "label": "Terrano",
+            "tip_vozila": "SUV",
+            "value": "Terrano"
+        },
+        {
+            "label": "Tiida",
+            "tip_vozila": "hatchback",
+            "value": "Tiida"
+        },
+        {
+            "label": "Trade",
+            "tip_vozila": "SUV",
+            "value": "Trade"
+        },
+        {
+            "label": "Vanette Cargo",
+            "tip_vozila": "kombi",
+            "value": "Vanette Cargo"
+        },
+        {
+            "label": "X-Trail",
+            "tip_vozila": "SUV",
+            "value": "X-Trail"
+        },
+        {
+            "label": "e-NV200",
+            "tip_vozila": "kombi",
+            "value": "e-NV200"
+        }
+    ],
+    "Opel": [
+        {
+            "label": "Agila",
+            "tip_vozila": "hatchback",
+            "value": "Agila"
+        },
+        {
+            "label": "Ampera",
+            "tip_vozila": "hatchback",
+            "value": "Ampera"
+        },
+        {
+            "label": "Antara",
+            "tip_vozila": "SUV",
+            "value": "Antara"
+        },
+        {
+            "label": "Astra cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "Astra cabrio"
+        },
+        {
+            "label": "Astra caravan",
+            "tip_vozila": "kombi",
+            "value": "Astra caravan"
+        },
+        {
+            "label": "Astra coupé",
+            "tip_vozila": "coupe",
+            "value": "Astra coupé"
+        },
+        {
+            "label": "Astra",
+            "tip_vozila": "hatchback",
+            "value": "Astra"
+        },
+        {
+            "label": "Calibra",
+            "tip_vozila": "coupe",
+            "value": "Calibra"
+        },
+        {
+            "label": "Campo",
+            "tip_vozila": "kombi",
+            "value": "Campo"
+        },
+        {
+            "label": "Cascada",
+            "tip_vozila": "kabriolet",
+            "value": "Cascada"
+        },
+        {
+            "label": "Corsa",
+            "tip_vozila": "hatchback",
+            "value": "Corsa"
+        },
+        {
+            "label": "Frontera",
+            "tip_vozila": "SUV",
+            "value": "Frontera"
+        },
+        {
+            "label": "Insignia kombi",
+            "tip_vozila": "kombi",
+            "value": "Insignia kombi"
+        },
+        {
+            "label": "Insignia",
+            "tip_vozila": "sedan",
+            "value": "Insignia"
+        },
+        {
+            "label": "Kadett",
+            "tip_vozila": "sedan",
+            "value": "Kadett"
+        },
+        {
+            "label": "Meriva",
+            "tip_vozila": "kombi",
+            "value": "Meriva"
+        },
+        {
+            "label": "Mokka",
+            "tip_vozila": "SUV",
+            "value": "Mokka"
+        },
+        {
+            "label": "Movano",
+            "tip_vozila": "kombi",
+            "value": "Movano"
+        },
+        {
+            "label": "Omega",
+            "tip_vozila": "sedan",
+            "value": "Omega"
+        },
+        {
+            "label": "Signum",
+            "tip_vozila": "sedan",
+            "value": "Signum"
+        },
+        {
+            "label": "Vectra Caravan",
+            "tip_vozila": "kombi",
+            "value": "Vectra Caravan"
+        },
+        {
+            "label": "Vectra",
+            "tip_vozila": "sedan",
+            "value": "Vectra"
+        },
+        {
+            "label": "Vivaro Kombi",
+            "tip_vozila": "kombi",
+            "value": "Vivaro Kombi"
+        },
+        {
+            "label": "Vivaro",
+            "tip_vozila": "kombi",
+            "value": "Vivaro"
+        },
+        {
+            "label": "Zafira",
+            "tip_vozila": "kombi",
+            "value": "Zafira"
+        }
+    ],
+    "Peugeot": [
+        {
+            "label": "1007",
+            "tip_vozila": "hatchback",
+            "value": "1007"
+        },
+        {
+            "label": "106",
+            "tip_vozila": "hatchback",
+            "value": "106"
+        },
+        {
+            "label": "107",
+            "tip_vozila": "hatchback",
+            "value": "107"
+        },
+        {
+            "label": "108",
+            "tip_vozila": "hatchback",
+            "value": "108"
+        },
+        {
+            "label": "2008",
+            "tip_vozila": "SUV",
+            "value": "2008"
+        },
+        {
+            "label": "205 Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "205-cabrio"
+        },
+        {
+            "label": "205",
+            "tip_vozila": "hatchback",
+            "value": "205"
+        },
+        {
+            "label": "206 CC",
+            "tip_vozila": "kabriolet",
+            "value": "206-cc"
+        },
+        {
+            "label": "206 SW",
+            "tip_vozila": "karavan",
+            "value": "206-sw"
+        },
+        {
+            "label": "206",
+            "tip_vozila": "hatchback",
+            "value": "206"
+        },
+        {
+            "label": "207 CC",
+            "tip_vozila": "kabriolet",
+            "value": "207-cc"
+        },
+        {
+            "label": "207 SW",
+            "tip_vozila": "karavan",
+            "value": "207-sw"
+        },
+        {
+            "label": "207",
+            "tip_vozila": "hatchback",
+            "value": "207"
+        },
+        {
+            "label": "306",
+            "tip_vozila": "hatchback",
+            "value": "306"
+        },
+        {
+            "label": "307 CC",
+            "tip_vozila": "kabriolet",
+            "value": "307-cc"
+        },
+        {
+            "label": "307 SW",
+            "tip_vozila": "karavan",
+            "value": "307-sw"
+        },
+        {
+            "label": "307",
+            "tip_vozila": "hatchback",
+            "value": "307"
+        },
+        {
+            "label": "308 CC",
+            "tip_vozila": "kabriolet",
+            "value": "308-cc"
+        },
+        {
+            "label": "308 SW",
+            "tip_vozila": "karavan",
+            "value": "308-sw"
+        },
+        {
+            "label": "308",
+            "tip_vozila": "hatchback",
+            "value": "308"
+        },
+        {
+            "label": "309",
+            "tip_vozila": "hatchback",
+            "value": "309"
+        },
+        {
+            "label": "4007",
+            "tip_vozila": "SUV",
+            "value": "4007"
+        },
+        {
+            "label": "4008",
+            "tip_vozila": "SUV",
+            "value": "4008"
+        },
+        {
+            "label": "405",
+            "tip_vozila": "sedan",
+            "value": "405"
+        },
+        {
+            "label": "406",
+            "tip_vozila": "sedan",
+            "value": "406"
+        },
+        {
+            "label": "407 SW",
+            "tip_vozila": "karavan",
+            "value": "407-sw"
+        },
+        {
+            "label": "407",
+            "tip_vozila": "sedan",
+            "value": "407"
+        },
+        {
+            "label": "5008",
+            "tip_vozila": "SUV",
+            "value": "5008"
+        },
+        {
+            "label": "508 SW",
+            "tip_vozila": "karavan",
+            "value": "508-sw"
+        },
+        {
+            "label": "508",
+            "tip_vozila": "sedan",
+            "value": "508"
+        },
+        {
+            "label": "605",
+            "tip_vozila": "sedan",
+            "value": "605"
+        },
+        {
+            "label": "607",
+            "tip_vozila": "sedan",
+            "value": "607"
+        },
+        {
+            "label": "806",
+            "tip_vozila": "kombi",
+            "value": "806"
+        },
+        {
+            "label": "807",
+            "tip_vozila": "kombi",
+            "value": "807"
+        },
+        {
+            "label": "Bipper",
+            "tip_vozila": "kombi",
+            "value": "bipper"
+        },
+        {
+            "label": "RCZ",
+            "tip_vozila": "coupe",
+            "value": "rcz"
+        }
+    ],
+    "Porsche": [
+        {
+            "label": "911 Carrera Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "911 Carrera Cabrio"
+        },
+        {
+            "label": "911 Carrera",
+            "tip_vozila": "coupe",
+            "value": "911 Carrera"
+        },
+        {
+            "label": "911 Targa",
+            "tip_vozila": "coupe",
+            "value": "911 Targa"
+        },
+        {
+            "label": "911 Turbo",
+            "tip_vozila": "coupe",
+            "value": "911 Turbo"
+        },
+        {
+            "label": "924",
+            "tip_vozila": "coupe",
+            "value": "924"
+        },
+        {
+            "label": "944",
+            "tip_vozila": "coupe",
+            "value": "944"
+        },
+        {
+            "label": "997",
+            "tip_vozila": "coupe",
+            "value": "997"
+        },
+        {
+            "label": "Boxster",
+            "tip_vozila": "coupe",
+            "value": "Boxster"
+        },
+        {
+            "label": "Cayenne",
+            "tip_vozila": "SUV",
+            "value": "Cayenne"
+        },
+        {
+            "label": "Cayman",
+            "tip_vozila": "coupe",
+            "value": "Cayman"
+        },
+        {
+            "label": "Macan",
+            "tip_vozila": "SUV",
+            "value": "Macan"
+        },
+        {
+            "label": "Panamera",
+            "tip_vozila": "sedan",
+            "value": "Panamera"
+        }
+    ],
+    "Renault": [
+        {
+            "label": "Captur",
+            "tip_vozila": "SUV",
+            "value": "captur"
+        },
+        {
+            "label": "Clio Grandtour",
+            "tip_vozila": "karavan",
+            "value": "clio-grandtour"
+        },
+        {
+            "label": "Clio",
+            "tip_vozila": "hatchback",
+            "value": "clio"
+        },
+        {
+            "label": "Espace",
+            "tip_vozila": "kombi",
+            "value": "espace"
+        },
+        {
+            "label": "Express",
+            "tip_vozila": "kombi",
+            "value": "express"
+        },
+        {
+            "label": "Fluence",
+            "tip_vozila": "sedan",
+            "value": "fluence"
+        },
+        {
+            "label": "Grand Espace",
+            "tip_vozila": "kombi",
+            "value": "grand-espace"
+        },
+        {
+            "label": "Grand Modus",
+            "tip_vozila": "hatchback",
+            "value": "grand-modus"
+        },
+        {
+            "label": "Grand Scenic",
+            "tip_vozila": "kombi",
+            "value": "grand-scenic"
+        },
+        {
+            "label": "Kadjar",
+            "tip_vozila": "SUV",
+            "value": "kadjar"
+        },
+        {
+            "label": "Kangoo Express",
+            "tip_vozila": "kombi",
+            "value": "kangoo-express"
+        },
+        {
+            "label": "Kangoo",
+            "tip_vozila": "kombi",
+            "value": "kangoo"
+        },
+        {
+            "label": "Koleos",
+            "tip_vozila": "SUV",
+            "value": "koleos"
+        },
+        {
+            "label": "Laguna Grandtour",
+            "tip_vozila": "karavan",
+            "value": "laguna-grandtour"
+        },
+        {
+            "label": "Laguna",
+            "tip_vozila": "sedan",
+            "value": "laguna"
+        },
+        {
+            "label": "Latitude",
+            "tip_vozila": "sedan",
+            "value": "latitude"
+        },
+        {
+            "label": "Mascott",
+            "tip_vozila": "kombi",
+            "value": "mascott"
+        },
+        {
+            "label": "Mégane CC",
+            "tip_vozila": "kabriolet",
+            "value": "megane-cc"
+        },
+        {
+            "label": "Mégane Combi",
+            "tip_vozila": "karavan",
+            "value": "megane-combi"
+        },
+        {
+            "label": "Mégane Coupé",
+            "tip_vozila": "coupe",
+            "value": "megane-coupe"
+        },
+        {
+            "label": "Mégane Grandtour",
+            "tip_vozila": "karavan",
+            "value": "megane-grandtour"
+        },
+        {
+            "label": "Mégane Scénic",
+            "tip_vozila": "kombi",
+            "value": "megane-scenic"
+        },
+        {
+            "label": "Mégane",
+            "tip_vozila": "hatchback",
+            "value": "megane"
+        },
+        {
+            "label": "Scénic",
+            "tip_vozila": "kombi",
+            "value": "scenic"
+        },
+        {
+            "label": "Talisman Grandtour",
+            "tip_vozila": "karavan",
+            "value": "talisman-grandtour"
+        },
+        {
+            "label": "Talisman",
+            "tip_vozila": "sedan",
+            "value": "talisman"
+        },
+        {
+            "label": "Thalia",
+            "tip_vozila": "sedan",
+            "value": "thalia"
+        },
+        {
+            "label": "Twingo",
+            "tip_vozila": "hatchback",
+            "value": "twingo"
+        },
+        {
+            "label": "Wind",
+            "tip_vozila": "kabriolet",
+            "value": "wind"
+        },
+        {
+            "label": "Zoé",
+            "tip_vozila": "hatchback",
+            "value": "zoe"
+        }
+    ],
+    "Rolls Royce": [
+        {
+            "label": "Cullinan",
+            "tip_vozila": "SUV",
+            "value": "Cullinan"
+        },
+        {
+            "label": "Dawn",
+            "tip_vozila": "kabriolet",
+            "value": "Dawn"
+        },
+        {
+            "label": "Ghost",
+            "tip_vozila": "sedan",
+            "value": "Ghost"
+        },
+        {
+            "label": "Phantom",
+            "tip_vozila": "sedan",
+            "value": "Phantom"
+        },
+        {
+            "label": "Wraith",
+            "tip_vozila": "coupe",
+            "value": "Wraith"
+        }
+    ],
+    "Rover": [
+        {
+            "label": "200",
+            "tip_vozila": "sedan",
+            "value": "200"
+        },
+        {
+            "label": "214",
+            "tip_vozila": "sedan",
+            "value": "214"
+        },
+        {
+            "label": "218",
+            "tip_vozila": "sedan",
+            "value": "218"
+        },
+        {
+            "label": "25",
+            "tip_vozila": "hatchback",
+            "value": "25"
+        },
+        {
+            "label": "400",
+            "tip_vozila": "sedan",
+            "value": "400"
+        },
+        {
+            "label": "414",
+            "tip_vozila": "sedan",
+            "value": "414"
+        },
+        {
+            "label": "416",
+            "tip_vozila": "sedan",
+            "value": "416"
+        },
+        {
+            "label": "620",
+            "tip_vozila": "sedan",
+            "value": "620"
+        },
+        {
+            "label": "75",
+            "tip_vozila": "sedan",
+            "value": "75"
+        }
+    ],
+    "Saab": [
+        {
+            "label": "9-3 Cabriolet",
+            "tip_vozila": "kabriolet",
+            "value": "9-3 Cabriolet"
+        },
+        {
+            "label": "9-3 Coupé",
+            "tip_vozila": "coupe",
+            "value": "9-3 Coupé"
+        },
+        {
+            "label": "9-3 SportCombi",
+            "tip_vozila": "kombi",
+            "value": "9-3 SportCombi"
+        },
+        {
+            "label": "9-3",
+            "tip_vozila": "sedan",
+            "value": "9-3"
+        },
+        {
+            "label": "9-5 SportCombi",
+            "tip_vozila": "kombi",
+            "value": "9-5 SportCombi"
+        },
+        {
+            "label": "9-5",
+            "tip_vozila": "sedan",
+            "value": "9-5"
+        },
+        {
+            "label": "900 C Turbo",
+            "tip_vozila": "sedan",
+            "value": "900 C Turbo"
+        },
+        {
+            "label": "900 C",
+            "tip_vozila": "sedan",
+            "value": "900 C"
+        },
+        {
+            "label": "900",
+            "tip_vozila": "sedan",
+            "value": "900"
+        },
+        {
+            "label": "9000",
+            "tip_vozila": "sedan",
+            "value": "9000"
+        }
+    ],
+    "Seat": [
+        {
+            "label": "Alhambra",
+            "tip_vozila": "kombi",
+            "value": "alhambra"
+        },
+        {
+            "label": "Altea XL",
+            "tip_vozila": "hatchback",
+            "value": "altea-xl"
+        },
+        {
+            "label": "Altea",
+            "tip_vozila": "hatchback",
+            "value": "altea"
+        },
+        {
+            "label": "Arosa",
+            "tip_vozila": "hatchback",
+            "value": "arosa"
+        },
+        {
+            "label": "Cordoba Vario",
+            "tip_vozila": "karavan",
+            "value": "cordoba-vario"
+        },
+        {
+            "label": "Cordoba",
+            "tip_vozila": "sedan",
+            "value": "cordoba"
+        },
+        {
+            "label": "Exeo ST",
+            "tip_vozila": "karavan",
+            "value": "exeo-st"
+        },
+        {
+            "label": "Exeo",
+            "tip_vozila": "sedan",
+            "value": "exeo"
+        },
+        {
+            "label": "Ibiza ST",
+            "tip_vozila": "karavan",
+            "value": "ibiza-st"
+        },
+        {
+            "label": "Ibiza",
+            "tip_vozila": "hatchback",
+            "value": "ibiza"
+        },
+        {
+            "label": "Inca",
+            "tip_vozila": "kombi",
+            "value": "inca"
+        },
+        {
+            "label": "Leon ST",
+            "tip_vozila": "karavan",
+            "value": "leon-st"
+        },
+        {
+            "label": "Leon",
+            "tip_vozila": "hatchback",
+            "value": "leon"
+        },
+        {
+            "label": "Mii",
+            "tip_vozila": "hatchback",
+            "value": "mii"
+        },
+        {
+            "label": "Toledo",
+            "tip_vozila": "sedan",
+            "value": "toledo"
+        }
+    ],
+    "Smart": [
+        {
+            "label": "Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "Cabrio"
+        },
+        {
+            "label": "City-Coupé",
+            "tip_vozila": "coupe",
+            "value": "City-Coupé"
+        },
+        {
+            "label": "Compact Pulse",
+            "tip_vozila": "hatchback",
+            "value": "Compact Pulse"
+        },
+        {
+            "label": "Forfour",
+            "tip_vozila": "hatchback",
+            "value": "Forfour"
+        },
+        {
+            "label": "Fortwo cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "Fortwo cabrio"
+        },
+        {
+            "label": "Fortwo coupé",
+            "tip_vozila": "coupe",
+            "value": "Fortwo coupé"
+        },
+        {
+            "label": "Roadster",
+            "tip_vozila": "coupe",
+            "value": "Roadster"
+        }
+    ],
+    "Subaru": [
+        {
+            "label": "BRZ",
+            "tip_vozila": "coupe",
+            "value": "BRZ"
+        },
+        {
+            "label": "Forester",
+            "tip_vozila": "SUV",
+            "value": "Forester"
+        },
+        {
+            "label": "Impreza",
+            "tip_vozila": "sedan",
+            "value": "Impreza"
+        },
+        {
+            "label": "Justy",
+            "tip_vozila": "hatchback",
+            "value": "Justy"
+        },
+        {
+            "label": "Legacy Outback",
+            "tip_vozila": "SUV",
+            "value": "Legacy Outback"
+        },
+        {
+            "label": "Legacy",
+            "tip_vozila": "sedan",
+            "value": "Legacy"
+        },
+        {
+            "label": "Levorg",
+            "tip_vozila": "kombi",
+            "value": "Levorg"
+        },
+        {
+            "label": "Outback",
+            "tip_vozila": "SUV",
+            "value": "Outback"
+        },
+        {
+            "label": "SVX",
+            "tip_vozila": "coupe",
+            "value": "SVX"
+        },
+        {
+            "label": "Tribeca B9",
+            "tip_vozila": "SUV",
+            "value": "Tribeca B9"
+        },
+        {
+            "label": "Tribeca",
+            "tip_vozila": "SUV",
+            "value": "Tribeca"
+        },
+        {
+            "label": "XV",
+            "tip_vozila": "SUV",
+            "value": "XV"
+        }
+    ],
+    "Suzuki": [
+        {
+            "label": "Alto",
+            "tip_vozila": "hatchback",
+            "value": "Alto"
+        },
+        {
+            "label": "Baleno kombi",
+            "tip_vozila": "kombi",
+            "value": "Baleno kombi"
+        },
+        {
+            "label": "Baleno",
+            "tip_vozila": "hatchback",
+            "value": "Baleno"
+        },
+        {
+            "label": "Grand Vitara XL-7",
+            "tip_vozila": "SUV",
+            "value": "Grand Vitara XL-7"
+        },
+        {
+            "label": "Grand Vitara",
+            "tip_vozila": "SUV",
+            "value": "Grand Vitara"
+        },
+        {
+            "label": "Ignis",
+            "tip_vozila": "hatchback",
+            "value": "Ignis"
+        },
+        {
+            "label": "Jimny",
+            "tip_vozila": "SUV",
+            "value": "Jimny"
+        },
+        {
+            "label": "Kizashi",
+            "tip_vozila": "sedan",
+            "value": "Kizashi"
+        },
+        {
+            "label": "Liana",
+            "tip_vozila": "sedan",
+            "value": "Liana"
+        },
+        {
+            "label": "SX4 Sedan",
+            "tip_vozila": "sedan",
+            "value": "SX4 Sedan"
+        },
+        {
+            "label": "SX4",
+            "tip_vozila": "hatchback",
+            "value": "SX4"
+        },
+        {
+            "label": "Samurai",
+            "tip_vozila": "SUV",
+            "value": "Samurai"
+        },
+        {
+            "label": "Splash",
+            "tip_vozila": "hatchback",
+            "value": "Splash"
+        },
+        {
+            "label": "Swift",
+            "tip_vozila": "hatchback",
+            "value": "Swift"
+        },
+        {
+            "label": "Vitara",
+            "tip_vozila": "SUV",
+            "value": "Vitara"
+        }
+    ],
+    "Škoda": [
+        {
+            "label": "Citigo",
+            "tip_vozila": "hatchback",
+            "value": "Citigo"
+        },
+        {
+            "label": "Fabia Combi",
+            "tip_vozila": "kombi",
+            "value": "Fabia Combi"
+        },
+        {
+            "label": "Fabia Sedan",
+            "tip_vozila": "sedan",
+            "value": "Fabia Sedan"
+        },
+        {
+            "label": "Fabia",
+            "tip_vozila": "hatchback",
+            "value": "Fabia"
+        },
+        {
+            "label": "Favorit",
+            "tip_vozila": "hatchback",
+            "value": "Favorit"
+        },
+        {
+            "label": "Felicia Combi",
+            "tip_vozila": "kombi",
+            "value": "Felicia Combi"
+        },
+        {
+            "label": "Felicia",
+            "tip_vozila": "hatchback",
+            "value": "Felicia"
+        },
+        {
+            "label": "Octavia Combi",
+            "tip_vozila": "kombi",
+            "value": "Octavia Combi"
+        },
+        {
+            "label": "Octavia",
+            "tip_vozila": "sedan",
+            "value": "Octavia"
+        },
+        {
+            "label": "Rapid Spaceback",
+            "tip_vozila": "hatchback",
+            "value": "Rapid Spaceback"
+        },
+        {
+            "label": "Rapid",
+            "tip_vozila": "sedan",
+            "value": "Rapid"
+        },
+        {
+            "label": "Roomster",
+            "tip_vozila": "kombi",
+            "value": "Roomster"
+        },
+        {
+            "label": "Superb Combi",
+            "tip_vozila": "kombi",
+            "value": "Superb Combi"
+        },
+        {
+            "label": "Superb",
+            "tip_vozila": "sedan",
+            "value": "Superb"
+        },
+        {
+            "label": "Yeti",
+            "tip_vozila": "SUV",
+            "value": "Yeti"
+        }
+    ],
+    "Tesla": [
+        {
+            "label": "Cybertruck",
+            "tip_vozila": "SUV",
+            "value": "Cybertruck"
+        },
+        {
+            "label": "Model 3",
+            "tip_vozila": "sedan",
+            "value": "Model 3"
+        },
+        {
+            "label": "Model S",
+            "tip_vozila": "sedan",
+            "value": "Model S"
+        },
+        {
+            "label": "Model X",
+            "tip_vozila": "SUV",
+            "value": "Model X"
+        },
+        {
+            "label": "Model Y",
+            "tip_vozila": "SUV",
+            "value": "Model Y"
+        }
+    ],
+    "Toyota": [
+        {
+            "label": "4-Runner",
+            "tip_vozila": "SUV",
+            "value": "4-Runner"
+        },
+        {
+            "label": "Auris",
+            "tip_vozila": "hatchback",
+            "value": "Auris"
+        },
+        {
+            "label": "Avensis Combi",
+            "tip_vozila": "kombi",
+            "value": "Avensis Combi"
+        },
+        {
+            "label": "Avensis",
+            "tip_vozila": "sedan",
+            "value": "Avensis"
+        },
+        {
+            "label": "Aygo",
+            "tip_vozila": "hatchback",
+            "value": "Aygo"
+        },
+        {
+            "label": "Camry",
+            "tip_vozila": "sedan",
+            "value": "Camry"
+        },
+        {
+            "label": "Carina",
+            "tip_vozila": "sedan",
+            "value": "Carina"
+        },
+        {
+            "label": "Celica",
+            "tip_vozila": "coupe",
+            "value": "Celica"
+        },
+        {
+            "label": "Corolla Combi",
+            "tip_vozila": "kombi",
+            "value": "Corolla Combi"
+        },
+        {
+            "label": "Corolla Verso",
+            "tip_vozila": "kombi",
+            "value": "Corolla Verso"
+        },
+        {
+            "label": "Corolla sedan",
+            "tip_vozila": "sedan",
+            "value": "Corolla sedan"
+        },
+        {
+            "label": "Corolla",
+            "tip_vozila": "sedan",
+            "value": "Corolla"
+        },
+        {
+            "label": "FJ Cruiser",
+            "tip_vozila": "SUV",
+            "value": "FJ Cruiser"
+        },
+        {
+            "label": "GT86",
+            "tip_vozila": "coupe",
+            "value": "GT86"
+        },
+        {
+            "label": "Hiace",
+            "tip_vozila": "kombi",
+            "value": "Hiace"
+        },
+        {
+            "label": "Highlander",
+            "tip_vozila": "SUV",
+            "value": "Highlander"
+        },
+        {
+            "label": "Hilux",
+            "tip_vozila": "kombi",
+            "value": "Hilux"
+        },
+        {
+            "label": "Land Cruiser",
+            "tip_vozila": "SUV",
+            "value": "Land Cruiser"
+        },
+        {
+            "label": "MR2",
+            "tip_vozila": "coupe",
+            "value": "MR2"
+        },
+        {
+            "label": "Paseo",
+            "tip_vozila": "hatchback",
+            "value": "Paseo"
+        },
+        {
+            "label": "Picnic",
+            "tip_vozila": "kombi",
+            "value": "Picnic"
+        },
+        {
+            "label": "Prius",
+            "tip_vozila": "sedan",
+            "value": "Prius"
+        },
+        {
+            "label": "RAV4",
+            "tip_vozila": "SUV",
+            "value": "RAV4"
+        },
+        {
+            "label": "Sequoia",
+            "tip_vozila": "SUV",
+            "value": "Sequoia"
+        },
+        {
+            "label": "Starlet",
+            "tip_vozila": "hatchback",
+            "value": "Starlet"
+        },
+        {
+            "label": "Supra",
+            "tip_vozila": "coupe",
+            "value": "Supra"
+        },
+        {
+            "label": "Tundra",
+            "tip_vozila": "kombi",
+            "value": "Tundra"
+        },
+        {
+            "label": "Urban Cruiser",
+            "tip_vozila": "SUV",
+            "value": "Urban Cruiser"
+        },
+        {
+            "label": "Verso",
+            "tip_vozila": "kombi",
+            "value": "Verso"
+        },
+        {
+            "label": "Yaris Verso",
+            "tip_vozila": "kombi",
+            "value": "Yaris Verso"
+        },
+        {
+            "label": "Yaris",
+            "tip_vozila": "hatchback",
+            "value": "Yaris"
+        }
+    ],
+    "Volkswagen": [
+        {
+            "label": "Arteon Shooting Brake",
+            "tip_vozila": "karavan",
+            "value": "arteon-shooting-brake"
+        },
+        {
+            "label": "Arteon",
+            "tip_vozila": "sedan",
+            "value": "arteon"
+        },
+        {
+            "label": "Beetle",
+            "tip_vozila": "hatchback",
+            "value": "beetle"
+        },
+        {
+            "label": "CC",
+            "tip_vozila": "sedan",
+            "value": "cc"
+        },
+        {
+            "label": "Caddy Maxi",
+            "tip_vozila": "kombi",
+            "value": "caddy-maxi"
+        },
+        {
+            "label": "Caddy",
+            "tip_vozila": "kombi",
+            "value": "caddy"
+        },
+        {
+            "label": "Crafter",
+            "tip_vozila": "kombi",
+            "value": "crafter"
+        },
+        {
+            "label": "Fox",
+            "tip_vozila": "hatchback",
+            "value": "fox"
+        },
+        {
+            "label": "Golf Alltrack",
+            "tip_vozila": "karavan",
+            "value": "golf-alltrack"
+        },
+        {
+            "label": "Golf Plus",
+            "tip_vozila": "hatchback",
+            "value": "golf-plus"
+        },
+        {
+            "label": "Golf Sportsvan",
+            "tip_vozila": "hatchback",
+            "value": "golf-sportsvan"
+        },
+        {
+            "label": "Golf",
+            "tip_vozila": "hatchback",
+            "value": "golf"
+        },
+        {
+            "label": "ID.3",
+            "tip_vozila": "hatchback",
+            "value": "id.3"
+        },
+        {
+            "label": "ID.4",
+            "tip_vozila": "SUV",
+            "value": "id.4"
+        },
+        {
+            "label": "ID.5",
+            "tip_vozila": "SUV",
+            "value": "id.5"
+        },
+        {
+            "label": "ID.7",
+            "tip_vozila": "sedan",
+            "value": "id.7"
+        },
+        {
+            "label": "Jetta",
+            "tip_vozila": "sedan",
+            "value": "jetta"
+        },
+        {
+            "label": "Multivan",
+            "tip_vozila": "kombi",
+            "value": "multivan"
+        },
+        {
+            "label": "Passat Alltrack",
+            "tip_vozila": "karavan",
+            "value": "passat-alltrack"
+        },
+        {
+            "label": "Passat Variant",
+            "tip_vozila": "karavan",
+            "value": "passat-variant"
+        },
+        {
+            "label": "Passat",
+            "tip_vozila": "sedan",
+            "value": "passat"
+        },
+        {
+            "label": "Polo",
+            "tip_vozila": "hatchback",
+            "value": "polo"
+        },
+        {
+            "label": "Scirocco",
+            "tip_vozila": "coupe",
+            "value": "scirocco"
+        },
+        {
+            "label": "Sharan",
+            "tip_vozila": "kombi",
+            "value": "sharan"
+        },
+        {
+            "label": "T-Cross",
+            "tip_vozila": "SUV",
+            "value": "t-cross"
+        },
+        {
+            "label": "T-Roc",
+            "tip_vozila": "SUV",
+            "value": "t-roc"
+        },
+        {
+            "label": "Tiguan",
+            "tip_vozila": "SUV",
+            "value": "tiguan"
+        },
+        {
+            "label": "Touareg",
+            "tip_vozila": "SUV",
+            "value": "touareg"
+        },
+        {
+            "label": "Touran",
+            "tip_vozila": "kombi",
+            "value": "touran"
+        },
+        {
+            "label": "Up!",
+            "tip_vozila": "hatchback",
+            "value": "up"
+        },
+        {
+            "label": "e-Golf",
+            "tip_vozila": "hatchback",
+            "value": "e-golf"
+        },
+        {
+            "label": "e-Up!",
+            "tip_vozila": "hatchback",
+            "value": "e-up"
+        }
+    ],
+    "Volvo": [
+        {
+            "label": "240",
+            "tip_vozila": "sedan",
+            "value": "240"
+        },
+        {
+            "label": "340",
+            "tip_vozila": "sedan",
+            "value": "340"
+        },
+        {
+            "label": "360",
+            "tip_vozila": "sedan",
+            "value": "360"
+        },
+        {
+            "label": "460",
+            "tip_vozila": "sedan",
+            "value": "460"
+        },
+        {
+            "label": "850 kombi",
+            "tip_vozila": "kombi",
+            "value": "850 kombi"
+        },
+        {
+            "label": "850",
+            "tip_vozila": "sedan",
+            "value": "850"
+        },
+        {
+            "label": "C30",
+            "tip_vozila": "hatchback",
+            "value": "C30"
+        },
+        {
+            "label": "C70 Cabrio",
+            "tip_vozila": "kabriolet",
+            "value": "C70 Cabrio"
+        },
+        {
+            "label": "C70 Coupé",
+            "tip_vozila": "coupe",
+            "value": "C70 Coupé"
+        },
+        {
+            "label": "C70",
+            "tip_vozila": "coupe",
+            "value": "C70"
+        },
+        {
+            "label": "S40",
+            "tip_vozila": "sedan",
+            "value": "S40"
+        },
+        {
+            "label": "S60",
+            "tip_vozila": "sedan",
+            "value": "S60"
+        },
+        {
+            "label": "S70",
+            "tip_vozila": "sedan",
+            "value": "S70"
+        },
+        {
+            "label": "S80",
+            "tip_vozila": "sedan",
+            "value": "S80"
+        },
+        {
+            "label": "S90",
+            "tip_vozila": "sedan",
+            "value": "S90"
+        },
+        {
+            "label": "V40",
+            "tip_vozila": "kombi",
+            "value": "V40"
+        },
+        {
+            "label": "V50",
+            "tip_vozila": "kombi",
+            "value": "V50"
+        },
+        {
+            "label": "V60",
+            "tip_vozila": "kombi",
+            "value": "V60"
+        },
+        {
+            "label": "V70",
+            "tip_vozila": "kombi",
+            "value": "V70"
+        },
+        {
+            "label": "V90",
+            "tip_vozila": "kombi",
+            "value": "V90"
+        },
+        {
+            "label": "XC60",
+            "tip_vozila": "SUV",
+            "value": "XC60"
+        },
+        {
+            "label": "XC70",
+            "tip_vozila": "SUV",
+            "value": "XC70"
+        },
+        {
+            "label": "XC90",
+            "tip_vozila": "SUV",
+            "value": "XC90"
+        }
+    ],
+    "Zastava": [
+        {
+            "label": "101",
+            "tip_vozila": "hatchback",
+            "value": "101"
+        },
+        {
+            "label": "128",
+            "tip_vozila": "hatchback",
+            "value": "128"
+        },
+        {
+            "label": "1300",
+            "tip_vozila": "sedan",
+            "value": "1300"
+        },
+        {
+            "label": "750",
+            "tip_vozila": "hatchback",
+            "value": "750"
+        },
+        {
+            "label": "Yugo Florida",
+            "tip_vozila": "hatchback",
+            "value": "Yugo Florida"
+        },
+        {
+            "label": "Yugo",
+            "tip_vozila": "hatchback",
+            "value": "Yugo"
+        }
+    ]
+}

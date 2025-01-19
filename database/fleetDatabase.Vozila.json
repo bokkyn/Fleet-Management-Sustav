@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "67673fe4a0338090bfb5ee93"
+  },
+  "registracija": "ST125AB",
+  "marka": "Porsche",
+  "model": "Panamera",
+  "tip_vozila": "sedan",
+  "mjenjac": "automatski",
+  "godina_proizvodnje": 2018,
+  "status": "neregistrirano",
+  "datum_tehnickog_pregleda": {
+    "$date": "2025-10-01T00:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676850d780ab40b5932e39be"
+  },
+  "registracija": "ZG987XY",
+  "marka": "BMW",
+  "model": "X5",
+  "tip_vozila": "SUV",
+  "mjenjac": "automatski",
+  "godina_proizvodnje": 2020,
+  "status": "dostupno",
+  "datum_tehnickog_pregleda": {
+    "$date": "2025-08-15T00:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776be95ebc7c9d8f7a0cbc1"
+  },
+  "registracija": "ST1950TH",
+  "marka": "McLaren",
+  "model": "Senna",
+  "tip_vozila": "coupe",
+  "mjenjac": "automatski",
+  "godina_proizvodnje": 2014,
+  "status": "dostupno",
+  "datum_tehnickog_pregleda": {
+    "$date": "2025-04-16T00:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678c5ec1c8738ce0de4bc3be"
+  },
+  "registracija": "ZG439BB",
+  "marka": "Audi",
+  "model": "a3-limousine",
+  "tip_vozila": "sedan",
+  "mjenjac": "mehanički",
+  "godina_proizvodnje": 2025,
+  "status": "dostupno",
+  "datum_tehnickog_pregleda": {
+    "$date": "2025-04-30T00:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678c5f02c8738ce0de4bc3c0"
+  },
+  "registracija": "SI555AK",
+  "marka": "Zastava",
+  "model": "128",
+  "tip_vozila": "hatchback",
+  "mjenjac": "mehanički",
+  "godina_proizvodnje": 1988,
+  "status": "dostupno",
+  "datum_tehnickog_pregleda": {
+    "$date": "2025-04-30T00:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678c5ff8c8738ce0de4bc3c8"
+  },
+  "registracija": "DU838NN",
+  "marka": "Volkswagen",
+  "model": "caddy",
+  "tip_vozila": "kombi",
+  "mjenjac": "mehanički",
+  "godina_proizvodnje": 2011,
+  "status": "dostupno",
+  "datum_tehnickog_pregleda": {
+    "$date": "2025-05-13T00:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678c6032c8738ce0de4bc3ca"
+  },
+  "registracija": "ŠI326TO",
+  "marka": "Nissan",
+  "model": "Juke",
+  "tip_vozila": "SUV",
+  "mjenjac": "automatski",
+  "godina_proizvodnje": 2025,
+  "status": "dostupno",
+  "datum_tehnickog_pregleda": {
+    "$date": "2025-08-18T00:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678c620ec8738ce0de4c5628"
+  },
+  "registracija": "VU222VU",
+  "marka": "Lada",
+  "model": "Niva",
+  "tip_vozila": "SUV",
+  "mjenjac": "mehanički",
+  "godina_proizvodnje": 1999,
+  "status": "neregistrirano",
+  "datum_tehnickog_pregleda": {
+    "$date": "2025-01-08T00:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678c625ec8738ce0de4c5640"
+  },
+  "registracija": "ST199JA",
+  "marka": "Bugatti",
+  "model": "Chiron",
+  "tip_vozila": "coupe",
+  "mjenjac": "automatski",
+  "godina_proizvodnje": 2019,
+  "status": "dostupno",
+  "datum_tehnickog_pregleda": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "__v": 0
+}]

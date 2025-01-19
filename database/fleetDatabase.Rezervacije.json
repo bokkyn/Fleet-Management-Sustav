@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "678c6091c8738ce0de4bc3d3"
+  },
+  "id_korisnika": {
+    "$oid": "678c5b9875222ae43b5ab7ed"
+  },
+  "tip_vozila": "kombi",
+  "vrijeme_pocetka": {
+    "$date": "2025-01-23T08:16:00.000Z"
+  },
+  "vrijeme_zavrsetka": {
+    "$date": "2025-01-23T22:16:00.000Z"
+  },
+  "razlog": "Transport namještaja iz kancelarije",
+  "status": "na čekanju",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678c60aac8738ce0de4bc3d6"
+  },
+  "id_korisnika": {
+    "$oid": "678c5b9875222ae43b5ab7ed"
+  },
+  "tip_vozila": "sedan",
+  "vrijeme_pocetka": {
+    "$date": "2025-01-29T02:17:00.000Z"
+  },
+  "vrijeme_zavrsetka": {
+    "$date": "2025-01-31T02:17:00.000Z"
+  },
+  "razlog": "Poslovni put",
+  "status": "odobreno",
+  "__v": 0,
+  "id_vozila": {
+    "$oid": "678c5ec1c8738ce0de4bc3be"
+  }
+},
+{
+  "_id": {
+    "$oid": "678c60e0c8738ce0de4bc3d9"
+  },
+  "id_korisnika": {
+    "$oid": "678c5b9875222ae43b5ab7ed"
+  },
+  "tip_vozila": "coupe",
+  "vrijeme_pocetka": {
+    "$date": "2025-01-31T02:17:00.000Z"
+  },
+  "vrijeme_zavrsetka": {
+    "$date": "2025-01-31T14:22:00.000Z"
+  },
+  "razlog": "Postavljanje rekorda relaciji Dicmo - Sinj",
+  "status": "odbijeno",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678c62f8c8738ce0de4c568e"
+  },
+  "id_korisnika": {
+    "$oid": "678c1fb03eaa72d23c082180"
+  },
+  "tip_vozila": "coupe",
+  "vrijeme_pocetka": {
+    "$date": "2025-01-20T02:26:00.000Z"
+  },
+  "vrijeme_zavrsetka": {
+    "$date": "2025-01-21T02:27:00.000Z"
+  },
+  "razlog": "Poslovni put",
+  "status": "odobreno",
+  "__v": 0,
+  "id_vozila": {
+    "$oid": "6776be95ebc7c9d8f7a0cbc1"
+  }
+},
+{
+  "_id": {
+    "$oid": "678c632ac8738ce0de4c56ba"
+  },
+  "id_korisnika": {
+    "$oid": "678c1fb03eaa72d23c082180"
+  },
+  "tip_vozila": "sedan",
+  "vrijeme_pocetka": {
+    "$date": "2025-01-24T02:27:00.000Z"
+  },
+  "vrijeme_zavrsetka": {
+    "$date": "2025-01-26T02:27:00.000Z"
+  },
+  "razlog": "Poslovni put",
+  "status": "otkazano",
+  "__v": 0,
+  "id_vozila": {
+    "$oid": "678c5ec1c8738ce0de4bc3be"
+  }
+}]

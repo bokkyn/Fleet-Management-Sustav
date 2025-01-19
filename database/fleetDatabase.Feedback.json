@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "678c61a4c8738ce0de4c5608"
+  },
+  "text": "Jako dobar softver",
+  "datum": {
+    "$date": "2025-01-19T02:21:24.929Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678c61d6c8738ce0de4c560a"
+  },
+  "text": "Admini trebaju biti opušteniji, nisu mi dali službeno vozilo za postavljanje službenog osobnog rekorda na relaciji Dicmo - Sinj",
+  "datum": {
+    "$date": "2025-01-19T02:22:14.622Z"
+  },
+  "__v": 0
+}]
