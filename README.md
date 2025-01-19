@@ -50,6 +50,8 @@ Nakon što su podaci uvezeni, slijedite ove korake za pokretanje backend i front
 
    - **Korisničko ime**: admin@admin.hr
    - **Lozinka**: admin
+
+Nakon ovoga, možete za potrebe testiranja dodavati svoje korisnike, ali pamtite njihove lozinke, jer će u bazi biti skrivne.
   
 **Fleet Management Sustav** je aplikacija namijenjena organizacijama za upravljanje službenim vozilima. Sustav omogućuje administratorima jednostavno upravljanje voznim parkom, dok zaposlenici mogu pregledati dostupnost vozila i podnositi zahtjeve za njihovu rezervaciju.
 
