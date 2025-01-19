@@ -1,7 +1,5 @@
 # Fleet-Management-Sustav
 
-
-
 ## Datoteke za uvoz
 **Važno!** Potrebno je importati bazu u kojoj su spremljeni podaci korisnika, jer radi sigurnosnih razloga, kod ovakvog tipa aplikacije, jedino ima smisla da administrator može dodavati korisnike.
 Imate sljedeće exportirane JSON datoteke u folderu **database**:
@@ -12,22 +10,12 @@ Imate sljedeće exportirane JSON datoteke u folderu **database**:
 - `fleetDatabase.Vozila.json`
 
 ## Koraci za uvoz podataka u MongoDB
-
+Nakon što napravite svoju bazu FleetDatabase, napravite kolekcije Feedback, Korisnici, Problemi, Rezervacije i Vozila.
 Možete koristiti **MongoDB Compass** za uvoz podataka putem grafičkog sučelja:
    - Otvorite MongoDB Compass i povežite se s vašom bazom podataka.
    - U lijevom izborniku odaberite kolekciju u koju želite uvesti podatke.
-   - Kliknite na "Import Data", odaberite vašu JSON datoteku i slijedite upute za uvoz.
+   - Kliknite na "Import Data", odaberite JSON datoteku iz foldera "database" i slijedite upute za uvoz.
      
-
-Ili **Otvorite terminal** i upišite sljedeće naredbe za uvoz svake JSON datoteke u MongoDB:
-   - Pokrenite sljedeće za svaku datoteku:
-
-   ```bash
-   mongoimport --db fleetDatabase --collection Feedback --file fleetDatabase.Feedback.json --jsonArray
-   mongoimport --db fleetDatabase --collection Korisnici --file fleetDatabase.Korisnici.json --jsonArray
-   mongoimport --db fleetDatabase --collection Problemi --file fleetDatabase.Problemi.json --jsonArray
-   mongoimport --db fleetDatabase --collection Rezervacije --file fleetDatabase.Rezervacije.json --jsonArray
-   mongoimport --db fleetDatabase --collection Vozila --file fleetDatabase.Vozila.json --jsonArray
    ```
 
 ## Pokretanje aplikacije
