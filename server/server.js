@@ -7,13 +7,14 @@ const feedbackRouter = require("./routes/feedback");
 const cors = require("cors");
 const mongoose = require("mongoose");
 const cookieParser = require("cookie-parser");
+require("dotenv").config();
 
 const app = express();
 app.use(
   cors({
-    origin: "http://localhost:5173", 
+    origin: "http://localhost:5173",
     methods: ["GET", "POST", "DELETE", "PUT"],
-    credentials: true, 
+    credentials: true,
   })
 );
 
@@ -26,7 +27,7 @@ app.listen(PORT, () => {
   console.log(`Server radi na http://localhost:${PORT}`);
 });
 
-mongoose.connect("mongodb://127.0.0.1:27017/fleetDatabase", {
+mongoose.connect(process.env.MONGODB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
