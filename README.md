@@ -9,8 +9,8 @@ Imate sljedeće exportirane JSON datoteke u folderu **database**:
 - `fleetDatabase.Rezervacije.json`
 - `fleetDatabase.Vozila.json`
 
-## Koraci za uvoz podataka u MongoDB
-Nakon što napravite svoju bazu FleetDatabase, napravite kolekcije Feedback, Korisnici, Problemi, Rezervacije i Vozila.
+## Koraci za uvoz testnih podataka u MongoDB
+Nakon što napravite svoju bazu fleetDatabase (pazite na veliko i malo slovo), napravite kolekcije Feedback, Korisnici, Problemi, Rezervacije i Vozila. 
 Možete koristiti **MongoDB Compass** za uvoz podataka putem grafičkog sučelja:
    - Otvorite MongoDB Compass i povežite se s vašom bazom podataka.
    - U lijevom izborniku odaberite kolekciju u koju želite uvesti podatke.
