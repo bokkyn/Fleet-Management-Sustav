@@ -1,8 +1,9 @@
 # Fleet-Management-Sustav
 
 <p align="center">
-  <img src="client/public/assets/ui/ui1.png" alt="Prva slika" width="300"/>
-  <img src="client/public/assets/ui/u2.png" alt="Nova slika" width="300"/>
+  <img src="client/public/assets/ui/ui1.png" width="400"/>
+  <img src="client/public/assets/ui/ui2.png" width="400"/>
+  <img src="client/public/assets/ui/ui3.png"  width="400"/>
 </p>
 
 ## Datoteke za uvoz
