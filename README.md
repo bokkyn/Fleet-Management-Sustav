@@ -1,5 +1,6 @@
 # Fleet-Management-Sustav
 
+![Primjer kartice vozila](client/public/assets/ui/ui1.png)
 
 ## Datoteke za uvoz
 **Važno!** Potrebno je importati bazu u kojoj su spremljeni podaci korisnika, jer radi sigurnosnih razloga, kod ovakvog tipa aplikacije, jedino ima smisla da administrator može dodavati korisnike.
