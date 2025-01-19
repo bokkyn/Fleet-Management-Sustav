@@ -32,7 +32,7 @@ Ili **Otvorite terminal** i upišite sljedeće naredbe za uvoz svake JSON datote
 
 ## Pokretanje aplikacije
 
-Nakon što su podaci uvezeni, slijedite ove korake za pokretanje backend i frontend servera: (s preduvjetom da imate preuzeto sve potrebno za pokretanje reacta)
+Nakon što su podaci uvezeni, slijedite ove korake za pokretanje backend i frontend servera: (s preduvjetom da imate preuzeto sve potrebno za pokretanje - Node.js i MongoDB)
 
 1. **Idite u backend direktorij** i pokrenite:
 
