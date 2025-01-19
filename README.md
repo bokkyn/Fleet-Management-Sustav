@@ -11,6 +11,8 @@ Imate sljedeće exportirane JSON datoteke u folderu **database**:
 
 ## Koraci za uvoz testnih podataka u MongoDB
 Nakon što napravite svoju bazu fleetDatabase (pazite na veliko i malo slovo), napravite kolekcije Feedback, Korisnici, Problemi, Rezervacije i Vozila. 
+_(Ako želite drugačiji naziv baze podataka, uredite datoteku .env unutar foldera server, da odgovara vašoj bazi)_
+
 Možete koristiti **MongoDB Compass** za uvoz podataka putem grafičkog sučelja:
    - Otvorite MongoDB Compass i povežite se s vašom bazom podataka.
    - U lijevom izborniku odaberite kolekciju u koju želite uvesti podatke.
