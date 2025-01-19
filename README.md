@@ -2,7 +2,8 @@
 
 
 ## Datoteke za uvoz
-Imate sljedeće exportirane JSON datoteke:
+**Važno!** Potrebno je importati bazu u kojoj su spremljeni podaci korisnika, jer radi sigurnosnih razloga, kod ovakvog tipa aplikacije, jedino ima smisla da administrator može dodavati korisnike.
+Imate sljedeće exportirane JSON datoteke u folderu **database**:
 - `fleetDatabase.Feedback.json`
 - `fleetDatabase.Korisnici.json`
 - `fleetDatabase.Problemi.json`
@@ -10,9 +11,14 @@ Imate sljedeće exportirane JSON datoteke:
 - `fleetDatabase.Vozila.json`
 
 ## Koraci za uvoz podataka u MongoDB
- **Idite u direktorij** database gdje se nalaze JSON datoteke.
 
- **Otvorite terminal** i upišite sljedeće naredbe za uvoz svake JSON datoteke u MongoDB:
+Možete koristiti **MongoDB Compass** za uvoz podataka putem grafičkog sučelja:
+   - Otvorite MongoDB Compass i povežite se s vašom bazom podataka.
+   - U lijevom izborniku odaberite kolekciju u koju želite uvesti podatke.
+   - Kliknite na "Import Data", odaberite vašu JSON datoteku i slijedite upute za uvoz.
+     
+
+Ili **Otvorite terminal** i upišite sljedeće naredbe za uvoz svake JSON datoteke u MongoDB:
    - Pokrenite sljedeće za svaku datoteku:
 
    ```bash
@@ -23,14 +29,9 @@ Imate sljedeće exportirane JSON datoteke:
    mongoimport --db fleetDatabase --collection Vozila --file fleetDatabase.Vozila.json --jsonArray
    ```
 
-4. Možete koristiti **MongoDB Compass** za uvoz podataka putem grafičkog sučelja:
-   - Otvorite MongoDB Compass i povežite se s vašom bazom podataka.
-   - U lijevom izborniku odaberite kolekciju u koju želite uvesti podatke.
-   - Kliknite na "Import Data", odaberite vašu JSON datoteku i slijedite upute za uvoz.
-
 ## Pokretanje aplikacije
 
-Nakon što su podaci uvezeni, slijedite ove korake za pokretanje backend i frontend servera:
+Nakon što su podaci uvezeni, slijedite ove korake za pokretanje backend i frontend servera: (s preduvjetom da imate preuzeto sve potrebno za pokretanje reacta)
 
 1. **Idite u backend direktorij** i pokrenite:
 
@@ -44,7 +45,7 @@ Nakon što su podaci uvezeni, slijedite ove korake za pokretanje backend i front
    npm run dev
    ```
 
-3. Server bi sada trebao biti pokrenut i možete se prijaviti s slijedećim podacima:
+3. Server bi sada trebao biti pokrenut i **možete se prijaviti s slijedećim podacima:**
 
    - **Korisničko ime**: admin@admin.hr
    - **Lozinka**: admin
