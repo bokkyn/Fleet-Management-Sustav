@@ -1,5 +1,10 @@
 # Fleet-Management-Sustav
 
+# Važno!
+Nakon što uvezete datoteke u bazu, logirajte se sa sljedećim podacima:
+   - **Korisničko ime**: admin@admin.hr
+   - **Lozinka**: admin
+
 ## Datoteke za uvoz
 **Važno!** Potrebno je importati bazu u kojoj su spremljeni podaci korisnika, jer radi sigurnosnih razloga, kod ovakvog tipa aplikacije, jedino ima smisla da administrator može dodavati korisnike.
 Imate sljedeće exportirane JSON datoteke u folderu **database**:
