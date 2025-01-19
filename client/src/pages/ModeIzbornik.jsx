@@ -15,6 +15,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+import { toast } from "sonner";
 
 const ModeIzbornik = () => {
   const postaviMode = async (mode) => {
@@ -30,18 +31,18 @@ const ModeIzbornik = () => {
         const userInfo = JSON.parse(localStorage.getItem("userInfo"));
         console.log(userInfo);
         if (userInfo) {
-          userInfo.mode = mode; 
+          userInfo.mode = mode;
           localStorage.setItem("userInfo", JSON.stringify(userInfo));
         }
 
-        alert(response.data.message);
+        toast(response.data.message);
         window.location.reload();
       } else {
-        alert("Nešto je pošlo po zlu.");
+        toast("Nešto je pošlo po zlu.");
       }
     } catch (error) {
       console.error("Greška:", error);
-      alert("Došlo je do greške prilikom postavljanja moda.");
+      toast("Došlo je do greške prilikom postavljanja moda.");
     }
   };
 

@@ -151,18 +151,18 @@ router.post("/prijava", prijavaLimiter, async (req, res) => {
       const token = jwt.sign(
         { id: korisnikBaza._id, uloga: korisnikBaza.uloga },
         SECRET_KEY,
-        { expiresIn: "1h" }
+        { expiresIn: "2h" }
       );
 
       res.cookie("accessToken", token, {
         httpOnly: true, // ovaj token smo zaštitili od pristupa
-        maxAge: 3600000,
-        secure: false, // ovo je true kad je https
+        maxAge: 7200000,
+        secure: false,
       });
 
       res.cookie("loggedIn", true, {
         httpOnly: false, //ovaj nismo, i koristi mi da lakše znan kad je neko logiran, nasaje i nestaje u isto vrime kad i token
-        maxAge: 3600000,
+        maxAge: 7200000,
         secure: false,
       });
 

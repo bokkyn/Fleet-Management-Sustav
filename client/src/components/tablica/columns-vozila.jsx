@@ -2,25 +2,24 @@ import { format } from "date-fns";
 import { ArrowUpDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import React, { useState } from "react";
-import UzmiIliOstavi from "../UzmiIliOstavi"; 
+import UzmiIliOstavi from "../UzmiIliOstavi";
 
 const formatDate = (dateString) => {
   const date = new Date(dateString);
   return format(date, "dd.MM.yyyy, HH:mm");
 };
 
-
 const statusColors = {
-  otkazano: "text-red-600", 
-  odbijeno: "text-red-600", 
-  odobreno: "text-green-600", 
+  otkazano: "text-red-600  justify-center flex",
+  odbijeno: "text-red-600  justify-center flex",
+  odobreno: "text-green-600  justify-center flex",
 };
 
 const columns = [
   {
     id: "status",
     accessorKey: "status",
-    headerName: "Status", 
+    headerName: "Status",
     header: ({ column }) => (
       <Button
         variant="ghost"
@@ -40,7 +39,6 @@ const columns = [
       const today = new Date();
       const startDate = new Date(vrijemePocetka);
 
-      
       const idRezervacije = row.original.id_rezervacije || row.original._id;
 
       const handleOpenDialog = () => {
@@ -48,12 +46,14 @@ const columns = [
           setCurrentId(idRezervacije);
           setOpenDialog(true);
         } else {
-          console.error("No ID found for the reservation");
+          console.error("Nema ID");
         }
       };
 
       if (status === "na čekanju" && startDate < today) {
-        return <span className="text-gray-500">isteklo</span>;
+        return (
+          <span className="text-gray-500  justify-center flex">isteklo</span>
+        );
       }
 
       if (status === "na čekanju") {

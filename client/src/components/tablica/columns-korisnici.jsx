@@ -11,7 +11,7 @@ const columns = [
   {
     id: "status",
     accessorKey: "status",
-    headerName: "Status", 
+    headerName: "Status",
     header: ({ column }) => (
       <Button
         variant="ghost"
@@ -23,14 +23,21 @@ const columns = [
     ),
     cell: ({ row, getValue }) => {
       const status = getValue();
-      const colorClass = status === "otkazano" || status === "odbijeno" ? "text-red-600" : "text-green-600";
-      
-      return <span className={colorClass}>{status}</span>;
+      const colorClass =
+        status === "otkazano" || status === "odbijeno"
+          ? "text-red-600"
+          : "text-green-600";
+
+      return (
+        <span className={`${colorClass} ml-4  flex justify-center`}>
+          {status}
+        </span>
+      );
     },
   },
   {
     id: "marka",
-    accessorKey: "marka", 
+    accessorKey: "marka",
     headerName: "Marka Vozila",
     header: ({ column }) => (
       <Button

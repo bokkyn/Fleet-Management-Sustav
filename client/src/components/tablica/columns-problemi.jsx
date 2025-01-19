@@ -3,29 +3,28 @@ import { ArrowUpDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import React, { useState } from "react";
 import ProblemDialog from "../ProblemDialog";
-import ZatvoriDialog from "../ZatvoriDialog"; 
+import ZatvoriDialog from "../ZatvoriDialog";
 
 const formatDate = (dateString) => {
   const date = new Date(dateString);
-  
+
   if (isNaN(date)) {
-    return "-"; 
+    return "-";
   }
   return format(date, "dd.MM.yyyy, HH:mm");
 };
 
-
 const statusColors = {
-  otkazano: "text-red-600", 
-  odbijeno: "text-red-600", 
-  odobreno: "text-green-600", 
+  otkazano: "text-red-600",
+  odbijeno: "text-red-600",
+  odobreno: "text-green-600",
 };
 
 const columns = [
   {
     id: "status",
     accessorKey: "status",
-    headerName: "Status", 
+    headerName: "Status",
     header: ({ column }) => (
       <Button
         variant="ghost"
@@ -59,7 +58,7 @@ const columns = [
         );
       }
 
-      return <span>{status}</span>;
+      return <span className="ml-5">{status}</span>;
     },
   },
   {

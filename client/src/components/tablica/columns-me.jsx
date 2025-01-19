@@ -52,7 +52,7 @@ const columns = [
       };
 
       if (status === "na čekanju" && startDate < today) {
-        return <span className="text-gray-500">prošlo</span>; // Display "Prošlo" if it's in the past
+        return <span className="text-gray-500 ml-4">prošlo</span>; // Display "Prošlo" if it's in the past
       }
 
       if (
@@ -71,7 +71,11 @@ const columns = [
 
       console.log("Row data:", row.original);
 
-      return <span className={colorClass}>{status}</span>;
+      return (
+        <span className={`${colorClass} ml-4`}>
+          {status}
+        </span>
+      );
     },
   },
 

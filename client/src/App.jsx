@@ -49,7 +49,7 @@ const App = () => (
             <Route path="/osobno" element={<Osobno />} />
             <Route path="/o-projektu" element={<OProjektu />} />
             <Route path="/postavke" element={<ModeIzbornik />} />
-            <Route path="/" element={<RegistracijaForma />} />
+            <Route path="/" element={<LoginRegistracija />} />
           </Routes>
           <Toaster></Toaster>
         </div>

@@ -72,7 +72,7 @@ const RegistracijaForma = () => {
         }
       );
 
-         console.log(response.data);
+      console.log(response.data);
       toast("Registracija uspješna! Možete se prijaviti.");
       setIme("");
       setPrezime("");
@@ -83,7 +83,7 @@ const RegistracijaForma = () => {
       if (error.response) {
         const errorMessage =
           typeof error.response.data === "string"
-            ? error.response.data.split(": ").pop() 
+            ? error.response.data.split(": ").pop()
             : "Došlo je do greške.";
         setErrorMessage(errorMessage);
       } else {
@@ -103,7 +103,6 @@ const RegistracijaForma = () => {
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-4">
-
           <div className="flex space-x-4">
             <div className="space-y-2 w-1/2">
               <Label htmlFor="ime">Ime</Label>
@@ -173,7 +172,7 @@ const RegistracijaForma = () => {
               value={uloga}
               onChange={handleInputChange}
               required
-              className="w-full p-2 border rounded-md"
+              className="w-full p-2 border rounded-md bg-white-500 text-black focus:outline-none focus:ring-2 focus:ring-stone-600"
             >
               <option value="korisnik">Korisnik</option>
               <option value="administrator">Administrator</option>

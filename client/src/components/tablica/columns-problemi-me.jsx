@@ -13,11 +13,6 @@ const formatDate = (dateString) => {
 };
 
 
-const statusColors = {
-  otkazano: "text-red-600", 
-  odbijeno: "text-red-600", 
-  odobreno: "text-green-600", 
-};
 
 const columns = [
   {
@@ -41,7 +36,7 @@ const columns = [
       const idProblem = row.original._id;
       console.log(idProblem);
 
-      return <span>{status}</span>;
+      return <span className="flex ml-4"  >{status}</span>;
     },
   },
   {

@@ -39,17 +39,21 @@ const Upozorenja = () => {
 
   return (
     <div className="max-w-4xl">
-      <Card className="bg-red-100 ">
+      <Card className="bg-rose-50 ">
         <CardHeader>
-          <CardTitle>Upozorenja za vozila</CardTitle>
+          <CardTitle>Upozorenja za izvanredne situacije</CardTitle>
         </CardHeader>
         <CardContent>
           <CardDescription>
-            Ako će nekom vozilu tijekom rezervacije isteći registracija ili
-            vozilo zahtjeva servis, vožnja takvog vozila bila bi ilegalna ili
-            opasna. Bilo bi dobro da se problem otkloni, vozilo registrira ili
-            servisira prije početka rezervacije. U najgorem slučaju
-            kontaktirajte korisnika i otkažite rezervaciju.
+            Ako se neko vozilo iznenada nađe u nenadanom problemu i zahtjeva
+            servis, vožnja takvog vozila bila bi ilegalna ili opasna. Bilo bi
+            dobro da se problem otkloni, a u najgorem slučaju kontaktirajte
+            korisnika i otkažite rezervaciju.
+            <br></br>
+            Primjer: vozilo je već odavno rezervirano za period od 25.12. do
+            27.12., registracija je odobrena, a u međuvremenu je bio potreban
+            servis i ne zna se hoće li se stići napraviti do početka rezervacije
+            itd.
           </CardDescription>
           <button
             className=" text-black p-2 rounded mt-4 "

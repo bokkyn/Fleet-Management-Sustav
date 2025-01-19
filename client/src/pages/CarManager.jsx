@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import KarticaVozila from "../components/KarticaVozila";
 import Upute from "../components/Upute";
-import Upozorenja from "../components/Upozorenja";
 const CarManager = () => {
   const [vozila, setVozila] = useState([]);
 
@@ -30,7 +29,7 @@ const CarManager = () => {
 
   return (
     <div className="flex flex-wrap gap-4 justify-center">
-      <Upozorenja></Upozorenja>
+ 
       <Upute
         naslov={"Vozila"}
         opis="Prikaz svih vozila u sustavu. Ovdje možete vozilo poslati na servis ili ga izbrisati iz baze. Također, možete vidjeti povijest rezervacija za svako vozilo."
