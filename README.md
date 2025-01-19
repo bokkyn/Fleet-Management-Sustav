@@ -73,7 +73,6 @@ Slike sučelja aplikacije:
 
 
 <p align="center">
-  <img src="client/public/assets/ui/ui1.png" width="300"/>
   <img src="client/public/assets/ui/ui2.png" width="300"/>
   <img src="client/public/assets/ui/ui5.png"  width="300"/>
 </p>
