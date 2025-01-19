@@ -1,6 +1,9 @@
 # Fleet-Management-Sustav
 
-![Primjer kartice vozila](client/public/assets/ui/ui1.png)
+<p align="center">
+  <img src="client/public/assets/ui/ui1.png" alt="Prva slika" width="300"/>
+  <img src="client/public/assets/ui/u2.png" alt="Nova slika" width="300"/>
+</p>
 
 ## Datoteke za uvoz
 **Važno!** Potrebno je importati bazu u kojoj su spremljeni podaci korisnika, jer radi sigurnosnih razloga, kod ovakvog tipa aplikacije, jedino ima smisla da administrator može dodavati korisnike.
