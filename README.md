@@ -96,6 +96,7 @@ Slike sučelja aplikacije:
     <img src="client/public/assets/primjeri/normalno2.png" width="300"/>
 
 </p>
+Aplikacija je izgrađena koristeći React, Express, MongoDB, ShadCN, i Tailwind CSS za pružanje modernog korisničkog sučelja te skalabilne backend arhitekture.
 <p align="center">
 
   <img src="client/public/assets/primjeri/veselo1.png"  width="300"/>
