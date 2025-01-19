@@ -18,7 +18,7 @@ Možete koristiti **MongoDB Compass** za uvoz podataka putem grafičkog sučelja
    - U lijevom izborniku odaberite kolekciju u koju želite uvesti podatke.
    - Kliknite na "Import Data", odaberite JSON datoteku iz foldera "database" i slijedite upute za uvoz.
      
-   ```
+
 
 ## Pokretanje aplikacije
 
